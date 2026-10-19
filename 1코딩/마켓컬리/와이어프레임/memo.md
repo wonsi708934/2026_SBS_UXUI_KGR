@@ -87,27 +87,27 @@ body {
 위 너비는 강의 실습 값이다. 작은 화면까지 대응하는 반응형 구현에는 별도 보완이 필요하다.
 
 ## 유틸리티 메뉴 오른쪽 정렬과 목록 스타일 초기화
-/* ul/li의 기본 여백과 목록 표시 제거 */
+* ul/li의 기본 여백과 목록 표시 제거 *
 ul, li {
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
-/* 컨테이너 내부 메뉴를 오른쪽으로 정렬 */
+* 컨테이너 내부 메뉴를 오른쪽으로 정렬 *
 .utility-menu .con {
   display: flex;
   justify-content: flex-end;
   align-items: center;
 }
 
-/* 메뉴 항목을 가로로 배치하고 12px 간격 지정 */
+* 메뉴 항목을 가로로 배치하고 12px 간격 지정 *
 .utility-menu .con > nav > ul {
   display: flex;
   gap: 12px;
 }
 
-/* 회원가입만 별도 강조 (예시 색상) */
+* 회원가입만 별도 강조 (예시 색상) *
 .signup {
   color: #5F0080;
 }
