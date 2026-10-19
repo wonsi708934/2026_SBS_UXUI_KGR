@@ -1,0 +1,1605 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - link "지금 가입하고 최대 1만 2천원 할인 쿠폰 받아가세요!" [ref=e6] [cursor=pointer]:
+        - /url: https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1
+      - button "배너 하루 안보기" [ref=e8] [cursor=pointer]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - generic [ref=e18] [cursor=pointer]: 회원가입
+          - generic [ref=e20] [cursor=pointer]: 로그인
+          - generic [ref=e22]: 고객센터
+        - generic [ref=e25]:
+          - generic [ref=e26]:
+            - link [ref=e27] [cursor=pointer]:
+              - /url: /main
+            - button "마켓컬리" [ref=e32] [cursor=pointer]
+            - button "뷰티컬리" [ref=e33] [cursor=pointer]
+          - generic [ref=e35]:
+            - textbox "검색어를 입력해주세요" [ref=e36]
+            - button "submit" [ref=e37] [cursor=pointer]
+          - generic [ref=e38]:
+            - button [ref=e39] [cursor=pointer]
+            - button [ref=e43] [cursor=pointer]
+            - button "0" [ref=e46] [cursor=pointer]
+      - generic [ref=e52]:
+        - button "카테고리" [ref=e54] [cursor=pointer]
+        - generic [ref=e58]:
+          - list [ref=e59]:
+            - listitem [ref=e60]:
+              - link "베스트" [ref=e61] [cursor=pointer]:
+                - /url: /collection-groups/market-best-category?site=MARKET
+            - listitem [ref=e62]:
+              - link "세일" [ref=e63] [cursor=pointer]:
+                - /url: /collection-groups/market-sales-group?site=MARKET
+            - listitem [ref=e64]:
+              - link "패션" [ref=e65] [cursor=pointer]:
+                - /url: /panels/fashion?site=MARKET
+            - listitem [ref=e66]:
+              - link "리빙" [ref=e67] [cursor=pointer]:
+                - /url: /panels/living?site=MARKET
+            - listitem [ref=e68]:
+              - link "신상" [ref=e69] [cursor=pointer]:
+                - /url: /collection-groups/market-newproduct?site=MARKET
+            - listitem [ref=e70]:
+              - link "특가/혜택" [ref=e71] [cursor=pointer]:
+                - /url: /market-benefit
+          - link "샛별·하루 배송안내" [ref=e72] [cursor=pointer]:
+            - /url: /user-guide/delivery
+            - generic [ref=e73]: 샛별·하루
+            - generic [ref=e74]: 배송안내
+    - generic [ref=e75]:
+      - generic [ref=e76]:
+        - generic [ref=e77]:
+          - paragraph [ref=e80]:
+            - link [ref=e81] [cursor=pointer]:
+              - /url: https://event.kurly.com/lego/event/2023/0911/join/coupon
+          - button "닫기" [ref=e84] [cursor=pointer]
+        - main [ref=e85]:
+          - generic [ref=e86]:
+            - generic [ref=e91]:
+              - generic [ref=e93]:
+                - link [ref=e96] [cursor=pointer]:
+                  - /url: https://event.kurly.com/lego/event/2026/1019/foodbrandweek
+                  - img "9308 메인배너 이미지" [ref=e97]
+                - link [ref=e100] [cursor=pointer]:
+                  - /url: https://event.kurly.com/lego/event/2026/1019/livingfair
+                  - img "9264 메인배너 이미지" [ref=e101]
+                - link [ref=e104] [cursor=pointer]:
+                  - /url: https://event.kurly.com/lego/event/2026/1013/KBF2026
+                  - img "9258 메인배너 이미지" [ref=e105]
+                - link [ref=e108] [cursor=pointer]:
+                  - /url: https://www.kurly.com/collections/jangboginew
+                  - img "4730 메인배너 이미지" [ref=e109]
+                - link [ref=e112] [cursor=pointer]:
+                  - /url: https://event.kurly.com/lego/event/2026/0928/Butterhouse1
+                  - img "3819 메인배너 이미지" [ref=e113]
+                - link [ref=e116] [cursor=pointer]:
+                  - /url: https://event.kurly.com/lego/event/2026/0526/thechef3
+                  - img "8844 메인배너 이미지" [ref=e117]
+                - link [ref=e120] [cursor=pointer]:
+                  - /url: https://event.kurly.com/lego/event/2026/1012/zipbobb
+                  - img "4402 메인배너 이미지" [ref=e121]
+                - link [ref=e124] [cursor=pointer]:
+                  - /url: https://www.kurly.com/panels/fashion?isSubTab=true
+                  - img "9256 메인배너 이미지" [ref=e125]
+                - link [ref=e128] [cursor=pointer]:
+                  - /url: https://event.kurly.com/lego/event/2026/1019/2026-livingandbeauty-lg
+                  - img "9259 메인배너 이미지" [ref=e129]
+                - link [ref=e132] [cursor=pointer]:
+                  - /url: https://event.kurly.com/lego/event/2026/0929/kurlyshinhan
+                  - img "9059 메인배너 이미지" [ref=e133]
+                - link [ref=e136] [cursor=pointer]:
+                  - /url: https://www.kurly.com/categories/321003
+                  - img "2643 메인배너 이미지" [ref=e137]
+                - link [ref=e140] [cursor=pointer]:
+                  - /url: https://event.kurly.com/lego/event/2026/1015/valueitem
+                  - img "9255 메인배너 이미지" [ref=e141]
+                - link [ref=e144] [cursor=pointer]:
+                  - /url: https://event.kurly.com/lego/event/2026/1015/117interview_sana3_7
+                  - img "9240 메인배너 이미지" [ref=e145]
+                - link [ref=e148] [cursor=pointer]:
+                  - /url: https://event.kurly.com/lego/event/2026/0914/fashion
+                  - img "8926 메인배너 이미지" [ref=e149]
+                - link [ref=e152] [cursor=pointer]:
+                  - /url: https://event.kurly.com/lego/event/2026/0209/delivery00
+                  - img "6666 메인배너 이미지" [ref=e153]
+                - link [ref=e156] [cursor=pointer]:
+                  - /url: https://www.kurly.com/categories/306003
+                  - img "9233 메인배너 이미지" [ref=e157]
+                - link [ref=e160] [cursor=pointer]:
+                  - /url: https://event.kurly.com/lego/event/2026/1015/stylenote
+                  - img "9239 메인배너 이미지" [ref=e161]
+                - link [ref=e164] [cursor=pointer]:
+                  - /url: https://event.kurly.com/lego/event/2026/0930/brandfinder
+                  - img "9075 메인배너 이미지" [ref=e165]
+                - link [ref=e168] [cursor=pointer]:
+                  - /url: https://www.kurly.com/events/member/friend
+                  - img "8940 메인배너 이미지" [ref=e169]
+                - link [ref=e172] [cursor=pointer]:
+                  - /url: https://event.kurly.com/lego/event/2026/1001/card-benefit
+                  - img "9088 메인배너 이미지" [ref=e173]
+              - generic:
+                - button [ref=e175] [cursor=pointer]
+                - button [ref=e181] [cursor=pointer]
+                - generic [ref=e187]:
+                  - button [ref=e188] [cursor=pointer]
+                  - button "01 20 전체보기" [ref=e193] [cursor=pointer]:
+                    - generic [ref=e194]:
+                      - generic [ref=e195]:
+                        - strong [ref=e196]: "01"
+                        - generic [ref=e198]: "20"
+                      - generic [ref=e199]: 전체보기
+            - generic [ref=e203]:
+              - generic [ref=e204] [cursor=pointer]:
+                - link [ref=e205]:
+                  - /url: /collections/sale231107
+                  - heading "🛒지금 가장 많이 담는 특가" [level=2] [ref=e206]
+                - paragraph [ref=e211]: 꼭 담아야 할 추천 특가템 최대 50% OFF
+              - generic [ref=e212]:
+                - generic [ref=e214]:
+                  - article [ref=e217] [cursor=pointer]:
+                    - link "+20%쿠폰 담기 [고기동감자옹심이] 감자옹심이&칼국수(2인분) 12,900원 23% 9,900원 Kurly Only" [ref=e218]:
+                      - /url: /goods/1002212730?collectionCode=sale231107
+                      - generic [ref=e219]:
+                        - paragraph [ref=e226]: +20%쿠폰
+                        - button "담기" [ref=e227]
+                        - generic [ref=e232]:
+                          - heading "[고기동감자옹심이] 감자옹심이&칼국수(2인분)" [level=4] [ref=e234]
+                          - generic [ref=e235]:
+                            - text: 12,900원
+                            - generic [ref=e236]:
+                              - generic [ref=e237]: 23%
+                              - generic [ref=e238]: 9,900원
+                          - generic [ref=e239]: Kurly Only
+                  - article [ref=e243] [cursor=pointer]:
+                    - link "+최대15%쿠폰 담기 [종가] 포기김치 2.3kg 25,900원 7% 23,900원" [ref=e244]:
+                      - /url: /goods/5005786?collectionCode=sale231107
+                      - generic [ref=e245]:
+                        - paragraph [ref=e252]: +최대15%쿠폰
+                        - button "담기" [ref=e253]
+                        - generic [ref=e258]:
+                          - heading "[종가] 포기김치 2.3kg" [level=4] [ref=e260]
+                          - generic [ref=e261]:
+                            - text: 25,900원
+                            - generic [ref=e262]:
+                              - generic [ref=e263]: 7%
+                              - generic [ref=e264]: 23,900원
+                  - article [ref=e267] [cursor=pointer]:
+                    - link "+10% 쿠폰 담기 [우물우물] 바른 진미 오징어채 12,900원 26% 9,490원" [ref=e268]:
+                      - /url: /goods/1000168269?collectionCode=sale231107
+                      - generic [ref=e269]:
+                        - paragraph [ref=e276]: +10% 쿠폰
+                        - button "담기" [ref=e277]
+                        - generic [ref=e282]:
+                          - heading "[우물우물] 바른 진미 오징어채" [level=4] [ref=e284]
+                          - generic [ref=e285]:
+                            - text: 12,900원
+                            - generic [ref=e286]:
+                              - generic [ref=e287]: 26%
+                              - generic [ref=e288]: 9,490원
+                  - article [ref=e291] [cursor=pointer]:
+                    - link "담기 [제스프리] 뉴질랜드 골드키위 1.1kg (8~10입) 15,900원 36% 10,090원" [ref=e292]:
+                      - /url: /goods/5132780?collectionCode=sale231107
+                      - generic [ref=e293]:
+                        - button "담기" [ref=e302]
+                        - generic [ref=e307]:
+                          - heading "[제스프리] 뉴질랜드 골드키위 1.1kg (8~10입)" [level=4] [ref=e309]
+                          - generic [ref=e310]:
+                            - text: 15,900원
+                            - generic [ref=e311]:
+                              - generic [ref=e312]: 36%
+                              - generic [ref=e313]: 10,090원
+                  - article [ref=e316] [cursor=pointer]:
+                    - link "멤버스25%쿠폰 담기 [Kurly X LG생활건강] 1450 고불소 브리즈 자스민 치약 100g 3개입 17,800원 55% 7,900원 Kurly Only" [ref=e317]:
+                      - /url: /goods/1002574053?collectionCode=sale231107
+                      - generic [ref=e318]:
+                        - paragraph [ref=e325]: 멤버스25%쿠폰
+                        - button "담기" [ref=e326]
+                        - generic [ref=e331]:
+                          - heading "[Kurly X LG생활건강] 1450 고불소 브리즈 자스민 치약 100g 3개입" [level=4] [ref=e333]
+                          - generic [ref=e334]:
+                            - text: 17,800원
+                            - generic [ref=e335]:
+                              - generic [ref=e336]: 55%
+                              - generic [ref=e337]: 7,900원
+                          - generic [ref=e338]: Kurly Only
+                  - article [ref=e342] [cursor=pointer]:
+                    - link "멤버스특가 담기 [넉넉] 듬뿍 치아바타 5종, 택1 8,200원 15% 6,970원~ Kurly Only" [ref=e343]:
+                      - /url: /goods/1000831954?collectionCode=sale231107
+                      - generic [ref=e344]:
+                        - paragraph [ref=e351]: 멤버스특가
+                        - button "담기" [ref=e352]
+                        - generic [ref=e357]:
+                          - heading "[넉넉] 듬뿍 치아바타 5종, 택1" [level=4] [ref=e359]
+                          - generic [ref=e360]:
+                            - text: 8,200원
+                            - generic [ref=e361]:
+                              - generic [ref=e362]: 15%
+                              - generic [ref=e363]: 6,970원~
+                          - generic [ref=e364]: Kurly Only
+                  - article [ref=e368] [cursor=pointer]:
+                    - link "멤버스특가 담기 [마이노멀] 알룰로스 500g 8,980원 22% 6,980원~" [ref=e369]:
+                      - /url: /goods/1001062798?collectionCode=sale231107
+                      - generic [ref=e370]:
+                        - paragraph [ref=e377]: 멤버스특가
+                        - button "담기" [ref=e378]
+                        - generic [ref=e383]:
+                          - heading "[마이노멀] 알룰로스 500g" [level=4] [ref=e385]
+                          - generic [ref=e386]:
+                            - text: 8,980원
+                            - generic [ref=e387]:
+                              - generic [ref=e388]: 22%
+                              - generic [ref=e389]: 6,980원~
+                  - article [ref=e392] [cursor=pointer]:
+                    - link "담기 [자임] 제주 순수 당근주스 100% 120mL*10개입 19,800원 20% 15,840원 Kurly Only" [ref=e393]:
+                      - /url: /goods/1002425364?collectionCode=sale231107
+                      - generic [ref=e394]:
+                        - button "담기" [ref=e400]
+                        - generic [ref=e405]:
+                          - heading "[자임] 제주 순수 당근주스 100% 120mL*10개입" [level=4] [ref=e407]
+                          - generic [ref=e408]:
+                            - text: 19,800원
+                            - generic [ref=e409]:
+                              - generic [ref=e410]: 20%
+                              - generic [ref=e411]: 15,840원
+                          - generic [ref=e412]: Kurly Only
+                  - article [ref=e416] [cursor=pointer]:
+                    - link "담기 [Chefood] 인기 치킨 4종 9,980원 50% 4,990원" [ref=e417]:
+                      - /url: /goods/1002596519?collectionCode=sale231107
+                      - generic [ref=e418]:
+                        - button "담기" [ref=e424]
+                        - generic [ref=e429]:
+                          - heading "[Chefood] 인기 치킨 4종" [level=4] [ref=e431]
+                          - generic [ref=e432]:
+                            - text: 9,980원
+                            - generic [ref=e433]:
+                              - generic [ref=e434]: 50%
+                              - generic [ref=e435]: 4,990원
+                  - article [ref=e438] [cursor=pointer]:
+                    - link "+10%쿠폰 담기 설아 복숭아 (2입) 31,900원 18% 25,900원" [ref=e439]:
+                      - /url: /goods/1000079721?collectionCode=sale231107
+                      - generic [ref=e440]:
+                        - paragraph [ref=e447]: +10%쿠폰
+                        - button "담기" [ref=e448]
+                        - generic [ref=e453]:
+                          - heading "설아 복숭아 (2입)" [level=4] [ref=e455]
+                          - generic [ref=e456]:
+                            - text: 31,900원
+                            - generic [ref=e457]:
+                              - generic [ref=e458]: 18%
+                              - generic [ref=e459]: 25,900원
+                  - article [ref=e462] [cursor=pointer]:
+                    - link "멤버스특가 담기 [파스키에] 슬라이스 브리오슈 500g 9,580원 20% 7,664원~" [ref=e463]:
+                      - /url: /goods/1000352096?collectionCode=sale231107
+                      - generic [ref=e464]:
+                        - paragraph [ref=e471]: 멤버스특가
+                        - button "담기" [ref=e472]
+                        - generic [ref=e477]:
+                          - heading "[파스키에] 슬라이스 브리오슈 500g" [level=4] [ref=e479]
+                          - generic [ref=e480]:
+                            - text: 9,580원
+                            - generic [ref=e481]:
+                              - generic [ref=e482]: 20%
+                              - generic [ref=e483]: 7,664원~
+                  - article [ref=e486] [cursor=pointer]:
+                    - link "담기 [정관장 X Kurly] 홍삼정 더 클래스 농축스틱 (50일분) (+쇼핑백 증정) 153,000원 24% 116,100원 Kurly Only" [ref=e487]:
+                      - /url: /goods/1001495929?collectionCode=sale231107
+                      - generic [ref=e488]:
+                        - button "담기" [ref=e497]
+                        - generic [ref=e502]:
+                          - heading "[정관장 X Kurly] 홍삼정 더 클래스 농축스틱 (50일분) (+쇼핑백 증정)" [level=4] [ref=e504]
+                          - generic [ref=e505]:
+                            - text: 153,000원
+                            - generic [ref=e506]:
+                              - generic [ref=e507]: 24%
+                              - generic [ref=e508]: 116,100원
+                          - generic [ref=e509]: Kurly Only
+                  - article [ref=e513] [cursor=pointer]:
+                    - link "멤버스특가 담기 [이스트밸리] 목초먹은 우유로 만든 모짜렐라 피자치즈 240g 7,580원 13% 6,580원~ Kurly Only" [ref=e514]:
+                      - /url: /goods/1000660094?collectionCode=sale231107
+                      - generic [ref=e515]:
+                        - paragraph [ref=e522]: 멤버스특가
+                        - button "담기" [ref=e523]
+                        - generic [ref=e528]:
+                          - heading "[이스트밸리] 목초먹은 우유로 만든 모짜렐라 피자치즈 240g" [level=4] [ref=e530]
+                          - generic [ref=e531]:
+                            - text: 7,580원
+                            - generic [ref=e532]:
+                              - generic [ref=e533]: 13%
+                              - generic [ref=e534]: 6,580원~
+                          - generic [ref=e535]: Kurly Only
+                  - article [ref=e539] [cursor=pointer]:
+                    - link "담기 [아비노] 스트레스 릴리프 바디로션 354ml 21,900원 41% 12,900원 Kurly Only" [ref=e540]:
+                      - /url: /goods/1000072223?collectionCode=sale231107
+                      - generic [ref=e541]:
+                        - button "담기" [ref=e547]
+                        - generic [ref=e552]:
+                          - heading "[아비노] 스트레스 릴리프 바디로션 354ml" [level=4] [ref=e554]
+                          - generic [ref=e555]:
+                            - text: 21,900원
+                            - generic [ref=e556]:
+                              - generic [ref=e557]: 41%
+                              - generic [ref=e558]: 12,900원
+                          - generic [ref=e559]: Kurly Only
+                  - article [ref=e563] [cursor=pointer]:
+                    - link "담기 [락토핏 X Kurly] 락토핏 솔루션 프라임 100억 유산균 (60일분) 36,900원 27% 26,900원 Kurly Only" [ref=e564]:
+                      - /url: /goods/1002299144?collectionCode=sale231107
+                      - generic [ref=e565]:
+                        - button "담기" [ref=e571]
+                        - generic [ref=e576]:
+                          - heading "[락토핏 X Kurly] 락토핏 솔루션 프라임 100억 유산균 (60일분)" [level=4] [ref=e578]
+                          - generic [ref=e579]:
+                            - text: 36,900원
+                            - generic [ref=e580]:
+                              - generic [ref=e581]: 27%
+                              - generic [ref=e582]: 26,900원
+                          - generic [ref=e583]: Kurly Only
+                  - article [ref=e587] [cursor=pointer]:
+                    - link "담기 [컬리X종가] 산호원 셰프 김치 2종 (택1) 15,900원 16% 13,300원 Kurly Only" [ref=e588]:
+                      - /url: /goods/1002531982?collectionCode=sale231107
+                      - generic [ref=e589]:
+                        - button "담기" [ref=e595]
+                        - generic [ref=e600]:
+                          - heading "[컬리X종가] 산호원 셰프 김치 2종 (택1)" [level=4] [ref=e602]
+                          - generic [ref=e603]:
+                            - text: 15,900원
+                            - generic [ref=e604]:
+                              - generic [ref=e605]: 16%
+                              - generic [ref=e606]: 13,300원
+                          - generic [ref=e607]: Kurly Only
+                  - article [ref=e611] [cursor=pointer]:
+                    - link "멤버스특가 담기 [담온] 논산 딸기 찹쌀떡 2종 (택1) 11,400원 14% 9,804원~ Kurly Only" [ref=e612]:
+                      - /url: /goods/1002501187?collectionCode=sale231107
+                      - generic [ref=e613]:
+                        - paragraph [ref=e620]: 멤버스특가
+                        - button "담기" [ref=e621]
+                        - generic [ref=e626]:
+                          - heading "[담온] 논산 딸기 찹쌀떡 2종 (택1)" [level=4] [ref=e628]
+                          - generic [ref=e629]:
+                            - text: 11,400원
+                            - generic [ref=e630]:
+                              - generic [ref=e631]: 14%
+                              - generic [ref=e632]: 9,804원~
+                          - generic [ref=e633]: Kurly Only
+                  - article [ref=e637] [cursor=pointer]:
+                    - link "담기 [커피빈] 프리미엄 블렌디드 돌체라떼 300mL 2종(택1) 3,280원 15% 2,780원~ Kurly Only" [ref=e638]:
+                      - /url: /goods/1002193325?collectionCode=sale231107
+                      - generic [ref=e639]:
+                        - button "담기" [ref=e645]
+                        - generic [ref=e650]:
+                          - heading "[커피빈] 프리미엄 블렌디드 돌체라떼 300mL 2종(택1)" [level=4] [ref=e652]
+                          - generic [ref=e653]:
+                            - text: 3,280원
+                            - generic [ref=e654]:
+                              - generic [ref=e655]: 15%
+                              - generic [ref=e656]: 2,780원~
+                          - generic [ref=e657]: Kurly Only
+                  - article [ref=e661] [cursor=pointer]:
+                    - link "+10%쿠폰 담기 취향대로 익혀먹는 아보카도 850g (4~6입) (뉴질랜드산) 12,900원 14% 10,990원 Kurly Only" [ref=e662]:
+                      - /url: /goods/1001501983?collectionCode=sale231107
+                      - generic [ref=e663]:
+                        - paragraph [ref=e670]: +10%쿠폰
+                        - button "담기" [ref=e671]
+                        - generic [ref=e676]:
+                          - heading "취향대로 익혀먹는 아보카도 850g (4~6입) (뉴질랜드산)" [level=4] [ref=e678]
+                          - generic [ref=e679]:
+                            - text: 12,900원
+                            - generic [ref=e680]:
+                              - generic [ref=e681]: 14%
+                              - generic [ref=e682]: 10,990원
+                          - generic [ref=e683]: Kurly Only
+                  - article [ref=e687] [cursor=pointer]:
+                    - link "위크특가 담기 [비비안 histore] 심리스팬티 5매입 여성팬티 29,800원 43% 16,720원" [ref=e688]:
+                      - /url: /goods/1001640295?collectionCode=sale231107
+                      - generic [ref=e689]:
+                        - paragraph [ref=e696]: 위크특가
+                        - button "담기" [ref=e697]
+                        - generic [ref=e702]:
+                          - heading "[비비안 histore] 심리스팬티 5매입 여성팬티" [level=4] [ref=e704]
+                          - generic [ref=e705]:
+                            - text: 29,800원
+                            - generic [ref=e706]:
+                              - generic [ref=e707]: 43%
+                              - generic [ref=e708]: 16,720원
+                  - link [ref=e710] [cursor=pointer]:
+                    - /url: /collections/sale231107
+                    - paragraph [ref=e715]: 전체보기
+                - button [ref=e717] [cursor=pointer]
+            - generic [ref=e721]:
+              - generic [ref=e722] [cursor=pointer]:
+                - link [ref=e723]:
+                  - /url: /collections/261019-foodweek-home
+                  - heading "🎉10월 PICK 푸드브랜드 세일" [level=2] [ref=e724]
+                - paragraph [ref=e729]: 최대 20% 쿠폰! 신세계부터 온더고까지
+              - generic [ref=e730]:
+                - generic [ref=e732]:
+                  - article [ref=e735] [cursor=pointer]:
+                    - link "+15%쿠폰 담기 [한팟] 치즈 부대찌개 1858g(냉장) 14,300원 7% 13,299원 9,999+ Kurly Only" [ref=e736]:
+                      - /url: /goods/5053932?collectionCode=261019-foodweek-home
+                      - generic [ref=e737]:
+                        - paragraph [ref=e744]: +15%쿠폰
+                        - button "담기" [ref=e745]
+                        - generic [ref=e750]:
+                          - heading "[한팟] 치즈 부대찌개 1858g(냉장)" [level=4] [ref=e752]
+                          - generic [ref=e753]:
+                            - text: 14,300원
+                            - generic [ref=e754]:
+                              - generic [ref=e755]: 7%
+                              - generic [ref=e756]: 13,299원
+                          - generic [ref=e757]: 9,999+
+                          - generic [ref=e765]: Kurly Only
+                  - article [ref=e769] [cursor=pointer]:
+                    - link "+최대15%쿠폰 담기 [오봉집] 춘천식 닭갈비 600g 11,900원 25% 8,920원 103 Kurly Only" [ref=e770]:
+                      - /url: /goods/1002101131?collectionCode=261019-foodweek-home
+                      - generic [ref=e771]:
+                        - paragraph [ref=e778]: +최대15%쿠폰
+                        - button "담기" [ref=e779]
+                        - generic [ref=e784]:
+                          - heading "[오봉집] 춘천식 닭갈비 600g" [level=4] [ref=e786]
+                          - generic [ref=e787]:
+                            - text: 11,900원
+                            - generic [ref=e788]:
+                              - generic [ref=e789]: 25%
+                              - generic [ref=e790]: 8,920원
+                          - generic [ref=e791]: "103"
+                          - generic [ref=e799]: Kurly Only
+                  - article [ref=e803] [cursor=pointer]:
+                    - link "+15%쿠폰 담기 [경자국밥] 순대국밥 10,000원 21% 7,900원 999+" [ref=e804]:
+                      - /url: /goods/1001623564?collectionCode=261019-foodweek-home
+                      - generic [ref=e805]:
+                        - paragraph [ref=e812]: +15%쿠폰
+                        - button "담기" [ref=e813]
+                        - generic [ref=e818]:
+                          - heading "[경자국밥] 순대국밥" [level=4] [ref=e820]
+                          - generic [ref=e821]:
+                            - text: 10,000원
+                            - generic [ref=e822]:
+                              - generic [ref=e823]: 21%
+                              - generic [ref=e824]: 7,900원
+                          - generic [ref=e825]: 999+
+                  - article [ref=e835] [cursor=pointer]:
+                    - link "+15%쿠폰 담기 [오봉집] 낙지볶음 2종, 택1 8,590원 11% 7,600원~ 9,999+ Kurly Only" [ref=e836]:
+                      - /url: /goods/1000568239?collectionCode=261019-foodweek-home
+                      - generic [ref=e837]:
+                        - paragraph [ref=e844]: +15%쿠폰
+                        - button "담기" [ref=e845]
+                        - generic [ref=e850]:
+                          - heading "[오봉집] 낙지볶음 2종, 택1" [level=4] [ref=e852]
+                          - generic [ref=e853]:
+                            - text: 8,590원
+                            - generic [ref=e854]:
+                              - generic [ref=e855]: 11%
+                              - generic [ref=e856]: 7,600원~
+                          - generic [ref=e857]: 9,999+
+                          - generic [ref=e865]: Kurly Only
+                  - article [ref=e869] [cursor=pointer]:
+                    - link "최대 15%쿠폰 담기 [온더고] 고구마 함박스테이크 정식 6,980원 15% 5,900원 999+ Kurly Only" [ref=e870]:
+                      - /url: /goods/1000500610?collectionCode=261019-foodweek-home
+                      - generic [ref=e871]:
+                        - paragraph [ref=e878]: 최대 15%쿠폰
+                        - button "담기" [ref=e879]
+                        - generic [ref=e884]:
+                          - heading "[온더고] 고구마 함박스테이크 정식" [level=4] [ref=e886]
+                          - generic [ref=e887]:
+                            - text: 6,980원
+                            - generic [ref=e888]:
+                              - generic [ref=e889]: 15%
+                              - generic [ref=e890]: 5,900원
+                          - generic [ref=e891]: 999+
+                          - generic [ref=e899]: Kurly Only
+                  - article [ref=e903] [cursor=pointer]:
+                    - link "+20%쿠폰 담기 [조선호텔] 특제육수 포기김치 3kg 46,800원 10% 42,120원 999+" [ref=e904]:
+                      - /url: /goods/5156418?collectionCode=261019-foodweek-home
+                      - generic [ref=e905]:
+                        - paragraph [ref=e912]: +20%쿠폰
+                        - button "담기" [ref=e913]
+                        - generic [ref=e918]:
+                          - heading "[조선호텔] 특제육수 포기김치 3kg" [level=4] [ref=e920]
+                          - generic [ref=e921]:
+                            - text: 46,800원
+                            - generic [ref=e922]:
+                              - generic [ref=e923]: 10%
+                              - generic [ref=e924]: 42,120원
+                          - generic [ref=e925]: 999+
+                  - article [ref=e935] [cursor=pointer]:
+                    - link "+20%쿠폰 담기 [서울마님] 바로완성 떡볶이 3종 (택1) (통통쌀/매콤/로제) 6,500원 10% 5,850원~ 60" [ref=e936]:
+                      - /url: /goods/1002393072?collectionCode=261019-foodweek-home
+                      - generic [ref=e937]:
+                        - paragraph [ref=e944]: +20%쿠폰
+                        - button "담기" [ref=e945]
+                        - generic [ref=e950]:
+                          - heading "[서울마님] 바로완성 떡볶이 3종 (택1) (통통쌀/매콤/로제)" [level=4] [ref=e952]
+                          - generic [ref=e953]:
+                            - text: 6,500원
+                            - generic [ref=e954]:
+                              - generic [ref=e955]: 10%
+                              - generic [ref=e956]: 5,850원~
+                          - generic [ref=e957]: "60"
+                  - article [ref=e967] [cursor=pointer]:
+                    - link "+15%쿠폰 담기 [오마뎅] 풍년방앗간 떡꼬치 6,300원 20% 5,040원 999+" [ref=e968]:
+                      - /url: /goods/1001391366?collectionCode=261019-foodweek-home
+                      - generic [ref=e969]:
+                        - paragraph [ref=e976]: +15%쿠폰
+                        - button "담기" [ref=e977]
+                        - generic [ref=e982]:
+                          - heading "[오마뎅] 풍년방앗간 떡꼬치" [level=4] [ref=e984]
+                          - generic [ref=e985]:
+                            - text: 6,300원
+                            - generic [ref=e986]:
+                              - generic [ref=e987]: 20%
+                              - generic [ref=e988]: 5,040원
+                          - generic [ref=e989]: 999+
+                  - article [ref=e999] [cursor=pointer]:
+                    - link "+20%쿠폰 담기 [올바르고 반듯한] 감자 모짜 찰핫도그 11,980원 16% 9,980원 705" [ref=e1000]:
+                      - /url: /goods/1000270033?collectionCode=261019-foodweek-home
+                      - generic [ref=e1001]:
+                        - paragraph [ref=e1008]: +20%쿠폰
+                        - button "담기" [ref=e1009]
+                        - generic [ref=e1014]:
+                          - heading "[올바르고 반듯한] 감자 모짜 찰핫도그" [level=4] [ref=e1016]
+                          - generic [ref=e1017]:
+                            - text: 11,980원
+                            - generic [ref=e1018]:
+                              - generic [ref=e1019]: 16%
+                              - generic [ref=e1020]: 9,980원
+                          - generic [ref=e1021]: "705"
+                  - article [ref=e1031] [cursor=pointer]:
+                    - link "최대 15%쿠폰 담기 [설성목장] 한우 곰탕 600g 11,900원 28% 8,560원 9,999+ Kurly Only" [ref=e1032]:
+                      - /url: /goods/5106623?collectionCode=261019-foodweek-home
+                      - generic [ref=e1033]:
+                        - paragraph [ref=e1040]: 최대 15%쿠폰
+                        - button "담기" [ref=e1041]
+                        - generic [ref=e1046]:
+                          - heading "[설성목장] 한우 곰탕 600g" [level=4] [ref=e1048]
+                          - generic [ref=e1049]:
+                            - text: 11,900원
+                            - generic [ref=e1050]:
+                              - generic [ref=e1051]: 28%
+                              - generic [ref=e1052]: 8,560원
+                          - generic [ref=e1053]: 9,999+
+                          - generic [ref=e1061]: Kurly Only
+                  - article [ref=e1065] [cursor=pointer]:
+                    - link "+20%쿠폰 담기 [베키아에누보] 바질토마토치즈 치아바타 샌드위치 (3입) 13,980원 20% 11,180원 9,999+" [ref=e1066]:
+                      - /url: /goods/1000956905?collectionCode=261019-foodweek-home
+                      - generic [ref=e1067]:
+                        - paragraph [ref=e1074]: +20%쿠폰
+                        - button "담기" [ref=e1075]
+                        - generic [ref=e1080]:
+                          - heading "[베키아에누보] 바질토마토치즈 치아바타 샌드위치 (3입)" [level=4] [ref=e1082]
+                          - generic [ref=e1083]:
+                            - text: 13,980원
+                            - generic [ref=e1084]:
+                              - generic [ref=e1085]: 20%
+                              - generic [ref=e1086]: 11,180원
+                          - generic [ref=e1087]: 9,999+
+                  - article [ref=e1097] [cursor=pointer]:
+                    - link "+15%쿠폰 담기 [도량] 철가방요리사 임태훈 셰프의 짬뽕 2인분 (맵기선택) 16,900원 7% 15,590원 999+ Kurly Only" [ref=e1098]:
+                      - /url: /goods/1001861172?collectionCode=261019-foodweek-home
+                      - generic [ref=e1099]:
+                        - paragraph [ref=e1106]: +15%쿠폰
+                        - button "담기" [ref=e1107]
+                        - generic [ref=e1112]:
+                          - heading "[도량] 철가방요리사 임태훈 셰프의 짬뽕 2인분 (맵기선택)" [level=4] [ref=e1114]
+                          - generic [ref=e1115]:
+                            - text: 16,900원
+                            - generic [ref=e1116]:
+                              - generic [ref=e1117]: 7%
+                              - generic [ref=e1118]: 15,590원
+                          - generic [ref=e1119]: 999+
+                          - generic [ref=e1127]: Kurly Only
+                  - article [ref=e1131] [cursor=pointer]:
+                    - link "최대 15%쿠폰 담기 [온더고] 간편 미식 덮밥 도시락 4종 (택1) 6,980원 25% 5,235원~ 9,999+ Kurly Only" [ref=e1132]:
+                      - /url: /goods/5135831?collectionCode=261019-foodweek-home
+                      - generic [ref=e1133]:
+                        - paragraph [ref=e1140]: 최대 15%쿠폰
+                        - button "담기" [ref=e1141]
+                        - generic [ref=e1146]:
+                          - heading "[온더고] 간편 미식 덮밥 도시락 4종 (택1)" [level=4] [ref=e1148]
+                          - generic [ref=e1149]:
+                            - text: 6,980원
+                            - generic [ref=e1150]:
+                              - generic [ref=e1151]: 25%
+                              - generic [ref=e1152]: 5,235원~
+                          - generic [ref=e1153]: 9,999+
+                          - generic [ref=e1161]: Kurly Only
+                  - article [ref=e1165] [cursor=pointer]:
+                    - link "+15%쿠폰 담기 [오마뎅] 진짜 부산 떡볶이 352g 7,400원 15% 6,290원 9,999+" [ref=e1166]:
+                      - /url: /goods/5119349?collectionCode=261019-foodweek-home
+                      - generic [ref=e1167]:
+                        - paragraph [ref=e1174]: +15%쿠폰
+                        - button "담기" [ref=e1175]
+                        - generic [ref=e1180]:
+                          - heading "[오마뎅] 진짜 부산 떡볶이 352g" [level=4] [ref=e1182]
+                          - generic [ref=e1183]:
+                            - text: 7,400원
+                            - generic [ref=e1184]:
+                              - generic [ref=e1185]: 15%
+                              - generic [ref=e1186]: 6,290원
+                          - generic [ref=e1187]: 9,999+
+                  - article [ref=e1197] [cursor=pointer]:
+                    - link "+20%쿠폰 담기 [풀무원] 특등급 국산콩 두부 (부침찌개 겸용) 300gx2 5,480원 9% 4,980원 9,999+" [ref=e1198]:
+                      - /url: /goods/5070651?collectionCode=261019-foodweek-home
+                      - generic [ref=e1199]:
+                        - paragraph [ref=e1206]: +20%쿠폰
+                        - button "담기" [ref=e1207]
+                        - generic [ref=e1212]:
+                          - heading "[풀무원] 특등급 국산콩 두부 (부침찌개 겸용) 300gx2" [level=4] [ref=e1214]
+                          - generic [ref=e1215]:
+                            - text: 5,480원
+                            - generic [ref=e1216]:
+                              - generic [ref=e1217]: 9%
+                              - generic [ref=e1218]: 4,980원
+                          - generic [ref=e1219]: 9,999+
+                  - article [ref=e1229] [cursor=pointer]:
+                    - link "+20%쿠폰 담기 [채선당] 샤브샤브 밀키트(2인분) 20,900원 10% 18,810원 9,999+ Kurly Only" [ref=e1230]:
+                      - /url: /goods/1001866269?collectionCode=261019-foodweek-home
+                      - generic [ref=e1231]:
+                        - paragraph [ref=e1238]: +20%쿠폰
+                        - button "담기" [ref=e1239]
+                        - generic [ref=e1244]:
+                          - heading "[채선당] 샤브샤브 밀키트(2인분)" [level=4] [ref=e1246]
+                          - generic [ref=e1247]:
+                            - text: 20,900원
+                            - generic [ref=e1248]:
+                              - generic [ref=e1249]: 10%
+                              - generic [ref=e1250]: 18,810원
+                          - generic [ref=e1251]: 9,999+
+                          - generic [ref=e1259]: Kurly Only
+                  - article [ref=e1263] [cursor=pointer]:
+                    - link "+15%쿠폰 담기 [경자국밥] 돼지국밥 10,000원 21% 7,900원 999+" [ref=e1264]:
+                      - /url: /goods/1001623562?collectionCode=261019-foodweek-home
+                      - generic [ref=e1265]:
+                        - paragraph [ref=e1272]: +15%쿠폰
+                        - button "담기" [ref=e1273]
+                        - generic [ref=e1278]:
+                          - heading "[경자국밥] 돼지국밥" [level=4] [ref=e1280]
+                          - generic [ref=e1281]:
+                            - text: 10,000원
+                            - generic [ref=e1282]:
+                              - generic [ref=e1283]: 21%
+                              - generic [ref=e1284]: 7,900원
+                          - generic [ref=e1285]: 999+
+                  - article [ref=e1295] [cursor=pointer]:
+                    - link "+20%쿠폰 담기 [조선호텔] 특제육수 배추김치 4kg 43,800원 10% 39,420원 9,999+" [ref=e1296]:
+                      - /url: /goods/1000068999?collectionCode=261019-foodweek-home
+                      - generic [ref=e1297]:
+                        - paragraph [ref=e1304]: +20%쿠폰
+                        - button "담기" [ref=e1305]
+                        - generic [ref=e1310]:
+                          - heading "[조선호텔] 특제육수 배추김치 4kg" [level=4] [ref=e1312]
+                          - generic [ref=e1313]:
+                            - text: 43,800원
+                            - generic [ref=e1314]:
+                              - generic [ref=e1315]: 10%
+                              - generic [ref=e1316]: 39,420원
+                          - generic [ref=e1317]: 9,999+
+                  - article [ref=e1327] [cursor=pointer]:
+                    - link "+20%쿠폰 담기 [베키아에누보] 마녀스프 300g 4,480원 30% 3,130원 999+ Kurly Only" [ref=e1328]:
+                      - /url: /goods/1001417628?collectionCode=261019-foodweek-home
+                      - generic [ref=e1329]:
+                        - paragraph [ref=e1336]: +20%쿠폰
+                        - button "담기" [ref=e1337]
+                        - generic [ref=e1342]:
+                          - heading "[베키아에누보] 마녀스프 300g" [level=4] [ref=e1344]
+                          - generic [ref=e1345]:
+                            - text: 4,480원
+                            - generic [ref=e1346]:
+                              - generic [ref=e1347]: 30%
+                              - generic [ref=e1348]: 3,130원
+                          - generic [ref=e1349]: 999+
+                          - generic [ref=e1357]: Kurly Only
+                  - article [ref=e1361] [cursor=pointer]:
+                    - link "+20%쿠폰 담기 [풀무원] 고소한 유기농 순두부 (2개입) 3,400원 25% 2,550원 9,999+ Kurly Only" [ref=e1362]:
+                      - /url: /goods/1000331925?collectionCode=261019-foodweek-home
+                      - generic [ref=e1363]:
+                        - paragraph [ref=e1370]: +20%쿠폰
+                        - button "담기" [ref=e1371]
+                        - generic [ref=e1376]:
+                          - heading "[풀무원] 고소한 유기농 순두부 (2개입)" [level=4] [ref=e1378]
+                          - generic [ref=e1379]:
+                            - text: 3,400원
+                            - generic [ref=e1380]:
+                              - generic [ref=e1381]: 25%
+                              - generic [ref=e1382]: 2,550원
+                          - generic [ref=e1383]: 9,999+
+                          - generic [ref=e1391]: Kurly Only
+                  - link [ref=e1394] [cursor=pointer]:
+                    - /url: /collections/261019-foodweek-home
+                    - paragraph [ref=e1399]: 전체보기
+                - button [ref=e1401] [cursor=pointer]
+            - generic [ref=e1405]:
+              - generic [ref=e1406] [cursor=pointer]:
+                - link [ref=e1407]:
+                  - /url: /collections/beauty-daily-market
+                  - heading "🎀지금 인기 있는, 뷰티 베스트템" [level=2] [ref=e1408]
+                - paragraph [ref=e1413]: 많은 고객들에게 선택받은 인기 아이템을 소개합니다!
+              - generic [ref=e1414]:
+                - generic [ref=e1416]:
+                  - article [ref=e1419] [cursor=pointer]:
+                    - link "담기 [라로슈포제] 시카플라스트 밤 B5+ 40/100ml 2종 (택1) 41,000원 5% 38,950원 999+" [ref=e1420]:
+                      - /url: /goods/1000050764?collectionCode=beauty-daily-market
+                      - generic [ref=e1421]:
+                        - button "담기" [ref=e1427]
+                        - generic [ref=e1432]:
+                          - heading "[라로슈포제] 시카플라스트 밤 B5+ 40/100ml 2종 (택1)" [level=4] [ref=e1434]
+                          - generic [ref=e1435]:
+                            - text: 41,000원
+                            - generic [ref=e1436]:
+                              - generic [ref=e1437]: 5%
+                              - generic [ref=e1438]: 38,950원
+                          - generic [ref=e1439]: 999+
+                  - article [ref=e1449] [cursor=pointer]:
+                    - link "담기 [바세린] (NEW) 바디밤 젤리 스틱 15g/40g 4종, 택1 5,900원 10% 5,310원~ 348" [ref=e1450]:
+                      - /url: /goods/1002476101?collectionCode=beauty-daily-market
+                      - generic [ref=e1451]:
+                        - button "담기" [ref=e1457]
+                        - generic [ref=e1462]:
+                          - heading "[바세린] (NEW) 바디밤 젤리 스틱 15g/40g 4종, 택1" [level=4] [ref=e1464]
+                          - generic [ref=e1465]:
+                            - text: 5,900원
+                            - generic [ref=e1466]:
+                              - generic [ref=e1467]: 10%
+                              - generic [ref=e1468]: 5,310원~
+                          - generic [ref=e1469]: "348"
+                  - article [ref=e1479] [cursor=pointer]:
+                    - link "담기 [에스트라] 아토베리어365 크림80ml 2개 세트 (+크림 30ml + 로션 30ml + 리제덤 세럼 7ml) 66,000원 20% 52,800원 999+ Kurly Only" [ref=e1480]:
+                      - /url: /goods/1001053095?collectionCode=beauty-daily-market
+                      - generic [ref=e1481]:
+                        - button "담기" [ref=e1487]
+                        - generic [ref=e1492]:
+                          - heading "[에스트라] 아토베리어365 크림80ml 2개 세트 (+크림 30ml + 로션 30ml + 리제덤 세럼 7ml)" [level=4] [ref=e1494]
+                          - generic [ref=e1495]:
+                            - text: 66,000원
+                            - generic [ref=e1496]:
+                              - generic [ref=e1497]: 20%
+                              - generic [ref=e1498]: 52,800원
+                          - generic [ref=e1499]: 999+
+                          - generic [ref=e1507]: Kurly Only
+                  - article [ref=e1511] [cursor=pointer]:
+                    - link "담기 [모로칸오일] 헤어 트리트먼트 100ml (펌핑기 포함) 67,000원 10% 60,300원 999+" [ref=e1512]:
+                      - /url: /goods/1000078028?collectionCode=beauty-daily-market
+                      - generic [ref=e1513]:
+                        - button "담기" [ref=e1519]
+                        - generic [ref=e1524]:
+                          - heading "[모로칸오일] 헤어 트리트먼트 100ml (펌핑기 포함)" [level=4] [ref=e1526]
+                          - generic [ref=e1527]:
+                            - text: 67,000원
+                            - generic [ref=e1528]:
+                              - generic [ref=e1529]: 10%
+                              - generic [ref=e1530]: 60,300원
+                          - generic [ref=e1531]: 999+
+                  - article [ref=e1541] [cursor=pointer]:
+                    - link "멤버스특가 담기 [세타필] 모이스춰라이징 저자극 고보습 로션 2종, 택1 21,500원 53% 9,900원~ 999+" [ref=e1542]:
+                      - /url: /goods/1000329339?collectionCode=beauty-daily-market
+                      - generic [ref=e1543]:
+                        - paragraph [ref=e1550]: 멤버스특가
+                        - button "담기" [ref=e1551]
+                        - generic [ref=e1556]:
+                          - heading "[세타필] 모이스춰라이징 저자극 고보습 로션 2종, 택1" [level=4] [ref=e1558]
+                          - generic [ref=e1559]:
+                            - text: 21,500원
+                            - generic [ref=e1560]:
+                              - generic [ref=e1561]: 53%
+                              - generic [ref=e1562]: 9,900원~
+                          - generic [ref=e1563]: 999+
+                  - article [ref=e1573] [cursor=pointer]:
+                    - link "담기 [끌레드뽀 보떼] 코렉팅 크림 베일 N 37mL 92,000원 10% 82,800원 297" [ref=e1574]:
+                      - /url: /goods/1000393745?collectionCode=beauty-daily-market
+                      - generic [ref=e1575]:
+                        - button "담기" [ref=e1581]
+                        - generic [ref=e1586]:
+                          - heading "[끌레드뽀 보떼] 코렉팅 크림 베일 N 37mL" [level=4] [ref=e1588]
+                          - generic [ref=e1589]:
+                            - text: 92,000원
+                            - generic [ref=e1590]:
+                              - generic [ref=e1591]: 10%
+                              - generic [ref=e1592]: 82,800원
+                          - generic [ref=e1593]: "297"
+                  - article [ref=e1603] [cursor=pointer]:
+                    - link "멤버스특가 담기 [센소다인] 시린이 예방&완화를 위한 치약 6종 (택1) 6,500원 34% 4,280원~ 9,999+" [ref=e1604]:
+                      - /url: /goods/1001360284?collectionCode=beauty-daily-market
+                      - generic [ref=e1605]:
+                        - paragraph [ref=e1612]: 멤버스특가
+                        - button "담기" [ref=e1613]
+                        - generic [ref=e1618]:
+                          - heading "[센소다인] 시린이 예방&완화를 위한 치약 6종 (택1)" [level=4] [ref=e1620]
+                          - generic [ref=e1621]:
+                            - text: 6,500원
+                            - generic [ref=e1622]:
+                              - generic [ref=e1623]: 34%
+                              - generic [ref=e1624]: 4,280원~
+                          - generic [ref=e1625]: 9,999+
+                  - article [ref=e1635] [cursor=pointer]:
+                    - link "담기 [켄트] 클래식/콤팩트/탄 초극세모 칫솔 4개입 세트 3종 (택1) 17,200원 25% 12,800원 9,999+ Kurly Only" [ref=e1636]:
+                      - /url: /goods/1000199398?collectionCode=beauty-daily-market
+                      - generic [ref=e1637]:
+                        - button "담기" [ref=e1643]
+                        - generic [ref=e1648]:
+                          - heading "[켄트] 클래식/콤팩트/탄 초극세모 칫솔 4개입 세트 3종 (택1)" [level=4] [ref=e1650]
+                          - generic [ref=e1651]:
+                            - text: 17,200원
+                            - generic [ref=e1652]:
+                              - generic [ref=e1653]: 25%
+                              - generic [ref=e1654]: 12,800원
+                          - generic [ref=e1655]: 9,999+
+                          - generic [ref=e1663]: Kurly Only
+                  - article [ref=e1667] [cursor=pointer]:
+                    - link "12% 쿠폰 담기 [일리윤] 세라마이드 아토 로션 914ml 기획세트 (564+350ml) (레드이치 케어 크림 68mL 증정) 44,100원 41% 25,696원 999+ Kurly Only" [ref=e1668]:
+                      - /url: /goods/1000310612?collectionCode=beauty-daily-market
+                      - generic [ref=e1669]:
+                        - paragraph [ref=e1676]: 12% 쿠폰
+                        - button "담기" [ref=e1677]
+                        - generic [ref=e1682]:
+                          - heading "[일리윤] 세라마이드 아토 로션 914ml 기획세트 (564+350ml) (레드이치 케어 크림 68mL 증정)" [level=4] [ref=e1684]
+                          - generic [ref=e1685]:
+                            - text: 44,100원
+                            - generic [ref=e1686]:
+                              - generic [ref=e1687]: 41%
+                              - generic [ref=e1688]: 25,696원
+                          - generic [ref=e1689]: 999+
+                          - generic [ref=e1697]: Kurly Only
+                  - article [ref=e1701] [cursor=pointer]:
+                    - link "무료배송 담기 [온더바디] 발을씻자 코튼풋샴푸/46cm 바디워시/풋필링팩 14종 (택1) 9,900원 39% 5,950원~ 9,999+" [ref=e1702]:
+                      - /url: /goods/5074653?collectionCode=beauty-daily-market
+                      - generic [ref=e1703]:
+                        - paragraph [ref=e1710]: 무료배송
+                        - button "담기" [ref=e1711]
+                        - generic [ref=e1716]:
+                          - heading "[온더바디] 발을씻자 코튼풋샴푸/46cm 바디워시/풋필링팩 14종 (택1)" [level=4] [ref=e1718]
+                          - generic [ref=e1719]:
+                            - text: 9,900원
+                            - generic [ref=e1720]:
+                              - generic [ref=e1721]: 39%
+                              - generic [ref=e1722]: 5,950원~
+                          - generic [ref=e1723]: 9,999+
+                  - article [ref=e1733] [cursor=pointer]:
+                    - link "담기 [라부르켓] BEST 립 밤 14g 3종 (택1) 29,000원 10% 26,100원 999+" [ref=e1734]:
+                      - /url: /goods/1000871659?collectionCode=beauty-daily-market
+                      - generic [ref=e1735]:
+                        - button "담기" [ref=e1741]
+                        - generic [ref=e1746]:
+                          - heading "[라부르켓] BEST 립 밤 14g 3종 (택1)" [level=4] [ref=e1748]
+                          - generic [ref=e1749]:
+                            - text: 29,000원
+                            - generic [ref=e1750]:
+                              - generic [ref=e1751]: 10%
+                              - generic [ref=e1752]: 26,100원
+                          - generic [ref=e1753]: 999+
+                  - article [ref=e1763] [cursor=pointer]:
+                    - link "담기 [헤라] New 블랙 쿠션 파운데이션 (+리필 포함) 7종 (택1) (본품 15g, 리필 15g) 74,000원 10% 66,600원 999+" [ref=e1764]:
+                      - /url: /goods/1000469909?collectionCode=beauty-daily-market
+                      - generic [ref=e1765]:
+                        - button "담기" [ref=e1771]
+                        - generic [ref=e1776]:
+                          - heading "[헤라] New 블랙 쿠션 파운데이션 (+리필 포함) 7종 (택1) (본품 15g, 리필 15g)" [level=4] [ref=e1778]
+                          - generic [ref=e1779]:
+                            - text: 74,000원
+                            - generic [ref=e1780]:
+                              - generic [ref=e1781]: 10%
+                              - generic [ref=e1782]: 66,600원
+                          - generic [ref=e1783]: 999+
+                  - article [ref=e1793] [cursor=pointer]:
+                    - link "담기 [도브] 뷰티바 90g 4개입 5종 (택1, NEW 옵션 추가) 8,700원 36% 5,500원 9,999+" [ref=e1794]:
+                      - /url: /goods/5063595?collectionCode=beauty-daily-market
+                      - generic [ref=e1795]:
+                        - button "담기" [ref=e1801]
+                        - generic [ref=e1806]:
+                          - heading "[도브] 뷰티바 90g 4개입 5종 (택1, NEW 옵션 추가)" [level=4] [ref=e1808]
+                          - generic [ref=e1809]:
+                            - text: 8,700원
+                            - generic [ref=e1810]:
+                              - generic [ref=e1811]: 36%
+                              - generic [ref=e1812]: 5,500원
+                          - generic [ref=e1813]: 9,999+
+                  - article [ref=e1823] [cursor=pointer]:
+                    - link "담기 [도브] 오리지널 바디워시 1000g 5종 (택1) 13,900원 35% 8,900원 999+" [ref=e1824]:
+                      - /url: /goods/1000969919?collectionCode=beauty-daily-market
+                      - generic [ref=e1825]:
+                        - button "담기" [ref=e1831]
+                        - generic [ref=e1836]:
+                          - heading "[도브] 오리지널 바디워시 1000g 5종 (택1)" [level=4] [ref=e1838]
+                          - generic [ref=e1839]:
+                            - text: 13,900원
+                            - generic [ref=e1840]:
+                              - generic [ref=e1841]: 35%
+                              - generic [ref=e1842]: 8,900원
+                          - generic [ref=e1843]: 999+
+                  - article [ref=e1853] [cursor=pointer]:
+                    - link "멤버스특가 담기 [셀리맥스] 지우개 어성초 바하 필링 패드 60매 17,000원 47% 9,000원~ 999+" [ref=e1854]:
+                      - /url: /goods/5069678?collectionCode=beauty-daily-market
+                      - generic [ref=e1855]:
+                        - paragraph [ref=e1862]: 멤버스특가
+                        - button "담기" [ref=e1863]
+                        - generic [ref=e1868]:
+                          - heading "[셀리맥스] 지우개 어성초 바하 필링 패드 60매" [level=4] [ref=e1870]
+                          - generic [ref=e1871]:
+                            - text: 17,000원
+                            - generic [ref=e1872]:
+                              - generic [ref=e1873]: 47%
+                              - generic [ref=e1874]: 9,000원~
+                          - generic [ref=e1875]: 999+
+                  - article [ref=e1885] [cursor=pointer]:
+                    - link "담기 [말콤] 퍼퓸 모이스트필 바디워시 1000mL 2종 (택1) 32,000원 59% 12,900원 999+ Kurly Only" [ref=e1886]:
+                      - /url: /goods/1001471843?collectionCode=beauty-daily-market
+                      - generic [ref=e1887]:
+                        - button "담기" [ref=e1893]
+                        - generic [ref=e1898]:
+                          - heading "[말콤] 퍼퓸 모이스트필 바디워시 1000mL 2종 (택1)" [level=4] [ref=e1900]
+                          - generic [ref=e1901]:
+                            - text: 32,000원
+                            - generic [ref=e1902]:
+                              - generic [ref=e1903]: 59%
+                              - generic [ref=e1904]: 12,900원
+                          - generic [ref=e1905]: 999+
+                          - generic [ref=e1913]: Kurly Only
+                  - article [ref=e1917] [cursor=pointer]:
+                    - link "담기 [센카] 퍼펙트 휩 페이셜 클렌징 워시 120g+120g (총 2개입) 17,600원 21% 13,900원 999+" [ref=e1918]:
+                      - /url: /goods/1000324493?collectionCode=beauty-daily-market
+                      - generic [ref=e1919]:
+                        - button "담기" [ref=e1925]
+                        - generic [ref=e1930]:
+                          - heading "[센카] 퍼펙트 휩 페이셜 클렌징 워시 120g+120g (총 2개입)" [level=4] [ref=e1932]
+                          - generic [ref=e1933]:
+                            - text: 17,600원
+                            - generic [ref=e1934]:
+                              - generic [ref=e1935]: 21%
+                              - generic [ref=e1936]: 13,900원
+                          - generic [ref=e1937]: 999+
+                  - article [ref=e1947] [cursor=pointer]:
+                    - link "증정+15%쿠폰 담기 [크리니크] 쏙보습크림 (핑크수분크림) 75ml (+50ml 크림 증정) 64,000원 15% 54,400원 999+" [ref=e1948]:
+                      - /url: /goods/1000073628?collectionCode=beauty-daily-market
+                      - generic [ref=e1949]:
+                        - paragraph [ref=e1956]: 증정+15%쿠폰
+                        - button "담기" [ref=e1957]
+                        - generic [ref=e1962]:
+                          - heading "[크리니크] 쏙보습크림 (핑크수분크림) 75ml (+50ml 크림 증정)" [level=4] [ref=e1964]
+                          - generic [ref=e1965]:
+                            - text: 64,000원
+                            - generic [ref=e1966]:
+                              - generic [ref=e1967]: 15%
+                              - generic [ref=e1968]: 54,400원
+                          - generic [ref=e1969]: 999+
+                  - article [ref=e1979] [cursor=pointer]:
+                    - link "13%쿠폰+증정 담기 [르네휘테르] 포티샤 슈퍼 볼륨 샴푸 500mL 60,000원 26% 44,370원 999+" [ref=e1980]:
+                      - /url: /goods/1002069689?collectionCode=beauty-daily-market
+                      - generic [ref=e1981]:
+                        - paragraph [ref=e1988]: 13%쿠폰+증정
+                        - button "담기" [ref=e1989]
+                        - generic [ref=e1994]:
+                          - heading "[르네휘테르] 포티샤 슈퍼 볼륨 샴푸 500mL" [level=4] [ref=e1996]
+                          - generic [ref=e1997]:
+                            - text: 60,000원
+                            - generic [ref=e1998]:
+                              - generic [ref=e1999]: 26%
+                              - generic [ref=e2000]: 44,370원
+                          - generic [ref=e2001]: 999+
+                  - article [ref=e2011] [cursor=pointer]:
+                    - link "담기 [스킨수티컬즈] C E 페룰릭 항산화 안티에이징 앰플 30ml 세트 (+CE 페룰릭 4ml*2+P-TIOX 4ml+울트라 세럼 4ml) 265,000원 10% 238,500원 597" [ref=e2012]:
+                      - /url: /goods/1001505128?collectionCode=beauty-daily-market
+                      - generic [ref=e2013]:
+                        - button "담기" [ref=e2019]
+                        - generic [ref=e2024]:
+                          - heading "[스킨수티컬즈] C E 페룰릭 항산화 안티에이징 앰플 30ml 세트 (+CE 페룰릭 4ml*2+P-TIOX 4ml+울트라 세럼 4ml)" [level=4] [ref=e2026]
+                          - generic [ref=e2027]:
+                            - text: 265,000원
+                            - generic [ref=e2028]:
+                              - generic [ref=e2029]: 10%
+                              - generic [ref=e2030]: 238,500원
+                          - generic [ref=e2031]: "597"
+                  - link [ref=e2040] [cursor=pointer]:
+                    - /url: /collections/beauty-daily-market
+                    - paragraph [ref=e2045]: 전체보기
+                - button [ref=e2047] [cursor=pointer]
+            - generic [ref=e2051]:
+              - generic [ref=e2052]:
+                - heading "🏆 실시간 인기랭킹 🏆" [level=2] [ref=e2053]
+                - paragraph [ref=e2054]: 가장 인기있는 상품만 모아보세요!
+              - generic [ref=e2055]:
+                - generic [ref=e2057]:
+                  - article [ref=e2059] [cursor=pointer]:
+                    - link "멤버스특가 1 [Dole] 스위티오 바나나 2종 (택1) 5%3,990원~ 담기" [ref=e2060]:
+                      - /url: /goods/5031442?collectionCode=ranking123
+                      - generic [ref=e2061]:
+                        - paragraph [ref=e2067]: 멤버스특가
+                        - generic [ref=e2068]:
+                          - generic [ref=e2069]: "1"
+                          - generic [ref=e2070]:
+                            - heading "[Dole] 스위티오 바나나 2종 (택1)" [level=4] [ref=e2071]
+                            - text: 5%3,990원~
+                        - button "담기" [ref=e2073]
+                  - article [ref=e2079] [cursor=pointer]:
+                    - link "멤버스특가 2 [사미헌] 갈비탕 10%13,050원~ 담기" [ref=e2080]:
+                      - /url: /goods/5026468?collectionCode=ranking123
+                      - generic [ref=e2081]:
+                        - paragraph [ref=e2087]: 멤버스특가
+                        - generic [ref=e2088]:
+                          - generic [ref=e2089]: "2"
+                          - generic [ref=e2090]:
+                            - heading "[사미헌] 갈비탕" [level=4] [ref=e2091]
+                            - text: 10%13,050원~
+                        - button "담기" [ref=e2093]
+                  - article [ref=e2099] [cursor=pointer]:
+                    - link "+최대15%쿠폰 3 [이연복의 목란] 짬뽕 2인분 (맵기선택) 10%13,050원 담기" [ref=e2100]:
+                      - /url: /goods/5156742?collectionCode=ranking123
+                      - generic [ref=e2101]:
+                        - paragraph [ref=e2107]: +최대15%쿠폰
+                        - generic [ref=e2108]:
+                          - generic [ref=e2109]: "3"
+                          - generic [ref=e2110]:
+                            - heading "[이연복의 목란] 짬뽕 2인분 (맵기선택)" [level=4] [ref=e2111]
+                            - text: 10%13,050원
+                        - button "담기" [ref=e2113]
+                  - article [ref=e2119] [cursor=pointer]:
+                    - link "4 [피자로빈슨] 뉴욕 메가 슬라이스 피자 7종 (택2) 15%5,100원~ 담기" [ref=e2120]:
+                      - /url: /goods/1001391829?collectionCode=ranking123
+                      - generic [ref=e2121]:
+                        - generic [ref=e2126]:
+                          - generic [ref=e2127]: "4"
+                          - generic [ref=e2128]:
+                            - heading "[피자로빈슨] 뉴욕 메가 슬라이스 피자 7종 (택2)" [level=4] [ref=e2129]
+                            - text: 15%5,100원~
+                        - button "담기" [ref=e2131]
+                  - article [ref=e2137] [cursor=pointer]:
+                    - link "최대 15%쿠폰 5 [온더고] 간편 미식 덮밥 도시락 4종 (택1) 25%5,235원~ 담기" [ref=e2138]:
+                      - /url: /goods/5135831?collectionCode=ranking123
+                      - generic [ref=e2139]:
+                        - paragraph [ref=e2145]: 최대 15%쿠폰
+                        - generic [ref=e2146]:
+                          - generic [ref=e2147]: "5"
+                          - generic [ref=e2148]:
+                            - heading "[온더고] 간편 미식 덮밥 도시락 4종 (택1)" [level=4] [ref=e2149]
+                            - text: 25%5,235원~
+                        - button "담기" [ref=e2151]
+                  - article [ref=e2157] [cursor=pointer]:
+                    - link "최대 15%쿠폰 6 [남다른 감자탕] 순살 감자탕 10%8,820원 담기" [ref=e2158]:
+                      - /url: /goods/5114853?collectionCode=ranking123
+                      - generic [ref=e2159]:
+                        - paragraph [ref=e2165]: 최대 15%쿠폰
+                        - generic [ref=e2166]:
+                          - generic [ref=e2167]: "6"
+                          - generic [ref=e2168]:
+                            - heading "[남다른 감자탕] 순살 감자탕" [level=4] [ref=e2169]
+                            - text: 10%8,820원
+                        - button "담기" [ref=e2171]
+                  - article [ref=e2177] [cursor=pointer]:
+                    - link "+20% 쿠폰 7 [KF365] 새콤달콤 제주 감귤 1.5kg (비가림 하우스) 25%11,900원 담기" [ref=e2178]:
+                      - /url: /goods/5162187?collectionCode=ranking123
+                      - generic [ref=e2179]:
+                        - paragraph [ref=e2185]: +20% 쿠폰
+                        - generic [ref=e2189]:
+                          - generic [ref=e2190]: "7"
+                          - generic [ref=e2191]:
+                            - heading "[KF365] 새콤달콤 제주 감귤 1.5kg (비가림 하우스)" [level=4] [ref=e2192]
+                            - text: 25%11,900원
+                        - button "담기" [ref=e2194]
+                  - article [ref=e2200] [cursor=pointer]:
+                    - link "+20% 쿠폰 8 [귤로장생] 제주 하우스 감귤 1kg 28%9,990원 담기" [ref=e2201]:
+                      - /url: /goods/5034841?collectionCode=ranking123
+                      - generic [ref=e2202]:
+                        - paragraph [ref=e2208]: +20% 쿠폰
+                        - generic [ref=e2209]:
+                          - generic [ref=e2210]: "8"
+                          - generic [ref=e2211]:
+                            - heading "[귤로장생] 제주 하우스 감귤 1kg" [level=4] [ref=e2212]
+                            - text: 28%9,990원
+                        - button "담기" [ref=e2214]
+                  - article [ref=e2220] [cursor=pointer]:
+                    - link "멤버스특가 9 [사리원] 소불고기 전골 20%12,720원~ 담기" [ref=e2221]:
+                      - /url: /goods/1000572062?collectionCode=ranking123
+                      - generic [ref=e2222]:
+                        - paragraph [ref=e2228]: 멤버스특가
+                        - generic [ref=e2229]:
+                          - generic [ref=e2230]: "9"
+                          - generic [ref=e2231]:
+                            - heading "[사리원] 소불고기 전골" [level=4] [ref=e2232]
+                            - text: 20%12,720원~
+                        - button "담기" [ref=e2234]
+                  - article [ref=e2240] [cursor=pointer]:
+                    - link "+10%쿠폰 10 [차려낸] 비법 간장 양념 메추리알 장조림 1kg 10%8,900원 담기" [ref=e2241]:
+                      - /url: /goods/1001363780?collectionCode=ranking123
+                      - generic [ref=e2242]:
+                        - paragraph [ref=e2248]: +10%쿠폰
+                        - generic [ref=e2249]:
+                          - generic [ref=e2250]: "10"
+                          - generic [ref=e2251]:
+                            - heading "[차려낸] 비법 간장 양념 메추리알 장조림 1kg" [level=4] [ref=e2252]
+                            - text: 10%8,900원
+                        - button "담기" [ref=e2254]
+                  - article [ref=e2260] [cursor=pointer]:
+                    - link "+10% 쿠폰 11 [KF365] 항공직송 노르웨이 생연어 6종, 택1 (냉장) 17%13,150원~ 담기" [ref=e2261]:
+                      - /url: /goods/1000750847?collectionCode=ranking123
+                      - generic [ref=e2262]:
+                        - paragraph [ref=e2268]: +10% 쿠폰
+                        - generic [ref=e2272]:
+                          - generic [ref=e2273]: "11"
+                          - generic [ref=e2274]:
+                            - heading "[KF365] 항공직송 노르웨이 생연어 6종, 택1 (냉장)" [level=4] [ref=e2275]
+                            - text: 17%13,150원~
+                        - button "담기" [ref=e2277]
+                  - article [ref=e2283] [cursor=pointer]:
+                    - link "+10% 쿠폰 12 [오봉집] 인기 메뉴 7종, 택1 14%8,510원~ 담기" [ref=e2284]:
+                      - /url: /goods/1001326985?collectionCode=ranking123
+                      - generic [ref=e2285]:
+                        - paragraph [ref=e2291]: +10% 쿠폰
+                        - generic [ref=e2292]:
+                          - generic [ref=e2293]: "12"
+                          - generic [ref=e2294]:
+                            - heading "[오봉집] 인기 메뉴 7종, 택1" [level=4] [ref=e2295]
+                            - text: 14%8,510원~
+                        - button "담기" [ref=e2297]
+                  - article [ref=e2303] [cursor=pointer]:
+                    - link "13 [마더푸드] 쪽갈비 2종 15,600원 담기" [ref=e2304]:
+                      - /url: /goods/5037259?collectionCode=ranking123
+                      - generic [ref=e2305]:
+                        - generic [ref=e2310]:
+                          - generic [ref=e2311]: "13"
+                          - generic [ref=e2312]:
+                            - heading "[마더푸드] 쪽갈비 2종" [level=4] [ref=e2313]
+                            - text: 15,600원
+                        - button "담기" [ref=e2315]
+                  - article [ref=e2321] [cursor=pointer]:
+                    - link "멤버스특가 14 [담온] 논산 딸기 찹쌀떡 2종 (택1) 14%9,804원~ 담기" [ref=e2322]:
+                      - /url: /goods/1002501187?collectionCode=ranking123
+                      - generic [ref=e2323]:
+                        - paragraph [ref=e2329]: 멤버스특가
+                        - generic [ref=e2330]:
+                          - generic [ref=e2331]: "14"
+                          - generic [ref=e2332]:
+                            - heading "[담온] 논산 딸기 찹쌀떡 2종 (택1)" [level=4] [ref=e2333]
+                            - text: 14%9,804원~
+                        - button "담기" [ref=e2335]
+                  - article [ref=e2341] [cursor=pointer]:
+                    - link "최대 15%쿠폰 15 [신의주 찹쌀순대] 얼큰 순대국 20%6,160원 담기" [ref=e2342]:
+                      - /url: /goods/1000130632?collectionCode=ranking123
+                      - generic [ref=e2343]:
+                        - paragraph [ref=e2349]: 최대 15%쿠폰
+                        - generic [ref=e2350]:
+                          - generic [ref=e2351]: "15"
+                          - generic [ref=e2352]:
+                            - heading "[신의주 찹쌀순대] 얼큰 순대국" [level=4] [ref=e2353]
+                            - text: 20%6,160원
+                        - button "담기" [ref=e2355]
+                  - article [ref=e2361] [cursor=pointer]:
+                    - link "+10%쿠폰 16 [KF365] 한돈 목살 구이용 600g/1kg (냉장) 29%15,015원~ 담기" [ref=e2362]:
+                      - /url: /goods/5069067?collectionCode=ranking123
+                      - generic [ref=e2363]:
+                        - paragraph [ref=e2369]: +10%쿠폰
+                        - generic [ref=e2370]:
+                          - generic [ref=e2371]: "16"
+                          - generic [ref=e2372]:
+                            - heading "[KF365] 한돈 목살 구이용 600g/1kg (냉장)" [level=4] [ref=e2373]
+                            - text: 29%15,015원~
+                        - button "담기" [ref=e2375]
+                  - article [ref=e2381] [cursor=pointer]:
+                    - link "최대 15%쿠폰 17 [비비드키친] 저당 닭가슴살 브리또 9종 2개입 (택1) 50%3,900원~ 담기" [ref=e2382]:
+                      - /url: /goods/1001150374?collectionCode=ranking123
+                      - generic [ref=e2383]:
+                        - paragraph [ref=e2389]: 최대 15%쿠폰
+                        - generic [ref=e2390]:
+                          - generic [ref=e2391]: "17"
+                          - generic [ref=e2392]:
+                            - heading "[비비드키친] 저당 닭가슴살 브리또 9종 2개입 (택1)" [level=4] [ref=e2393]
+                            - text: 50%3,900원~
+                        - button "담기" [ref=e2395]
+                  - article [ref=e2401] [cursor=pointer]:
+                    - link "최대 15%쿠폰 18 [차려낸] 국내산 닭가슴살 치킨너겟 40%5,900원 담기" [ref=e2402]:
+                      - /url: /goods/1001931649?collectionCode=ranking123
+                      - generic [ref=e2403]:
+                        - paragraph [ref=e2409]: 최대 15%쿠폰
+                        - generic [ref=e2410]:
+                          - generic [ref=e2411]: "18"
+                          - generic [ref=e2412]:
+                            - heading "[차려낸] 국내산 닭가슴살 치킨너겟" [level=4] [ref=e2413]
+                            - text: 40%5,900원
+                        - button "담기" [ref=e2415]
+                  - article [ref=e2421] [cursor=pointer]:
+                    - link "+최대15%쿠폰 19 [숭의가든] 한돈 목살 양념 구이 690g 15,990원 담기" [ref=e2422]:
+                      - /url: /goods/5025888?collectionCode=ranking123
+                      - generic [ref=e2423]:
+                        - paragraph [ref=e2429]: +최대15%쿠폰
+                        - generic [ref=e2430]:
+                          - generic [ref=e2431]: "19"
+                          - generic [ref=e2432]:
+                            - heading "[숭의가든] 한돈 목살 양념 구이 690g" [level=4] [ref=e2433]
+                            - text: 15,990원
+                        - button "담기" [ref=e2435]
+                  - article [ref=e2441] [cursor=pointer]:
+                    - link "멤버스특가 20 [조선호텔] 한우미역국 730g 11%6,100원~ 담기" [ref=e2442]:
+                      - /url: /goods/1000844081?collectionCode=ranking123
+                      - generic [ref=e2443]:
+                        - paragraph [ref=e2449]: 멤버스특가
+                        - generic [ref=e2450]:
+                          - generic [ref=e2451]: "20"
+                          - generic [ref=e2452]:
+                            - heading "[조선호텔] 한우미역국 730g" [level=4] [ref=e2453]
+                            - text: 11%6,100원~
+                        - button "담기" [ref=e2455]
+                  - link [ref=e2461] [cursor=pointer]:
+                    - /url: /collections/ranking123
+                    - paragraph [ref=e2466]: 전체보기
+                - button [ref=e2468] [cursor=pointer]
+              - link "전체보기" [ref=e2471] [cursor=pointer]:
+                - /url: /collections/ranking123
+            - generic [ref=e2477]:
+              - generic [ref=e2478] [cursor=pointer]:
+                - link [ref=e2479]:
+                  - /url: /collections/10livingfair-306001
+                  - heading "🍂리빙위크 최대 3.5만원 혜택" [level=2] [ref=e2480]
+                - paragraph [ref=e2485]: 10월에 꼭 필요한 리빙 추천템을 ~78% 특가로!
+              - generic [ref=e2486]:
+                - generic [ref=e2488]:
+                  - article [ref=e2491] [cursor=pointer]:
+                    - link "+10% 쿠폰 담기 [오리고] 26FW NEW 플리스 블랭킷 36,000원 45% 19,521원~ 999+" [ref=e2492]:
+                      - /url: /goods/1001544370?collectionCode=10livingfair-306001
+                      - generic [ref=e2493]:
+                        - paragraph [ref=e2500]: +10% 쿠폰
+                        - button "담기" [ref=e2501]
+                        - generic [ref=e2506]:
+                          - heading "[오리고] 26FW NEW 플리스 블랭킷" [level=4] [ref=e2508]
+                          - generic [ref=e2509]:
+                            - text: 36,000원
+                            - generic [ref=e2510]:
+                              - generic [ref=e2511]: 45%
+                              - generic [ref=e2512]: 19,521원~
+                          - generic [ref=e2513]: 999+
+                  - article [ref=e2523] [cursor=pointer]:
+                    - link "멤버스5천원쿠폰 담기 [파세오] 4겹 프리미엄 디럭스 와이드 화장지 (25M X 30롤 (107mm)) 43,900원 47% 22,865원 999+ Kurly Only" [ref=e2524]:
+                      - /url: /goods/1001868605?collectionCode=10livingfair-306001
+                      - generic [ref=e2525]:
+                        - paragraph [ref=e2532]: 멤버스5천원쿠폰
+                        - button "담기" [ref=e2533]
+                        - generic [ref=e2538]:
+                          - heading "[파세오] 4겹 프리미엄 디럭스 와이드 화장지 (25M X 30롤 (107mm))" [level=4] [ref=e2540]
+                          - generic [ref=e2541]:
+                            - text: 43,900원
+                            - generic [ref=e2542]:
+                              - generic [ref=e2543]: 47%
+                              - generic [ref=e2544]: 22,865원
+                          - generic [ref=e2545]: 999+
+                          - generic [ref=e2553]: Kurly Only
+                  - article [ref=e2557] [cursor=pointer]:
+                    - link "담기 [프로쉬] 식기세척기 주방세제 그린레몬 미니 50개입 24,000원 34% 15,750원 999+" [ref=e2558]:
+                      - /url: /goods/1000861713?collectionCode=10livingfair-306001
+                      - generic [ref=e2559]:
+                        - button "담기" [ref=e2565]
+                        - generic [ref=e2570]:
+                          - heading "[프로쉬] 식기세척기 주방세제 그린레몬 미니 50개입" [level=4] [ref=e2572]
+                          - generic [ref=e2573]:
+                            - text: 24,000원
+                            - generic [ref=e2574]:
+                              - generic [ref=e2575]: 34%
+                              - generic [ref=e2576]: 15,750원
+                          - generic [ref=e2577]: 999+
+                  - article [ref=e2587] [cursor=pointer]:
+                    - link "공동구매특가 담기 [보이러] 전기요, 전기담요 모음전 89,000원 11% 79,000원~ 10" [ref=e2588]:
+                      - /url: /goods/1001799127?collectionCode=10livingfair-306001
+                      - generic [ref=e2589]:
+                        - paragraph [ref=e2596]: 공동구매특가
+                        - button "담기" [ref=e2597]
+                        - generic [ref=e2602]:
+                          - heading "[보이러] 전기요, 전기담요 모음전" [level=4] [ref=e2604]
+                          - generic [ref=e2605]:
+                            - text: 89,000원
+                            - generic [ref=e2606]:
+                              - generic [ref=e2607]: 11%
+                              - generic [ref=e2608]: 79,000원~
+                          - generic [ref=e2609]: "10"
+                  - article [ref=e2619] [cursor=pointer]:
+                    - link "+20%쿠폰 담기 [락앤락] 바로한끼 안심 도자기 밥 보관 용기 (도자기 4p) 39,000원 55% 17,520원 999+ Kurly Only" [ref=e2620]:
+                      - /url: /goods/1001068937?collectionCode=10livingfair-306001
+                      - generic [ref=e2621]:
+                        - paragraph [ref=e2628]: +20%쿠폰
+                        - button "담기" [ref=e2629]
+                        - generic [ref=e2634]:
+                          - heading "[락앤락] 바로한끼 안심 도자기 밥 보관 용기 (도자기 4p)" [level=4] [ref=e2636]
+                          - generic [ref=e2637]:
+                            - text: 39,000원
+                            - generic [ref=e2638]:
+                              - generic [ref=e2639]: 55%
+                              - generic [ref=e2640]: 17,520원
+                          - generic [ref=e2641]: 999+
+                          - generic [ref=e2649]: Kurly Only
+                  - article [ref=e2653] [cursor=pointer]:
+                    - link "5+10% 쿠폰 담기 [하기스](팩) 2025 팬티&밴드 기저귀 1팩단위 BEST모음 (택1) 55,500원 44% 31,050원~ 999+" [ref=e2654]:
+                      - /url: /goods/1001728245?collectionCode=10livingfair-306001
+                      - generic [ref=e2655]:
+                        - paragraph [ref=e2662]: 5+10% 쿠폰
+                        - button "담기" [ref=e2663]
+                        - generic [ref=e2668]:
+                          - heading "[하기스](팩) 2025 팬티&밴드 기저귀 1팩단위 BEST모음 (택1)" [level=4] [ref=e2670]
+                          - generic [ref=e2671]:
+                            - text: 55,500원
+                            - generic [ref=e2672]:
+                              - generic [ref=e2673]: 44%
+                              - generic [ref=e2674]: 31,050원~
+                          - generic [ref=e2675]: 999+
+                  - article [ref=e2685] [cursor=pointer]:
+                    - link "+10% 쿠폰 담기 [템퍼] 오리지날 베개 9종 (택1) 162,000원 28% 116,640원~ 258" [ref=e2686]:
+                      - /url: /goods/1001810719?collectionCode=10livingfair-306001
+                      - generic [ref=e2687]:
+                        - paragraph [ref=e2694]: +10% 쿠폰
+                        - button "담기" [ref=e2695]
+                        - generic [ref=e2700]:
+                          - heading "[템퍼] 오리지날 베개 9종 (택1)" [level=4] [ref=e2702]
+                          - generic [ref=e2703]:
+                            - text: 162,000원
+                            - generic [ref=e2704]:
+                              - generic [ref=e2705]: 28%
+                              - generic [ref=e2706]: 116,640원~
+                          - generic [ref=e2707]: "258"
+                  - article [ref=e2717] [cursor=pointer]:
+                    - link "시크릿특가 담기 [테리파머] 무형광 170g/180g 호텔 수건 10장 수건세트 66종 (택1) 39,000원 28% 27,810원~ 956" [ref=e2718]:
+                      - /url: /goods/1000222257?collectionCode=10livingfair-306001
+                      - generic [ref=e2719]:
+                        - paragraph [ref=e2726]: 시크릿특가
+                        - button "담기" [ref=e2727]
+                        - generic [ref=e2732]:
+                          - heading "[테리파머] 무형광 170g/180g 호텔 수건 10장 수건세트 66종 (택1)" [level=4] [ref=e2734]
+                          - generic [ref=e2735]:
+                            - text: 39,000원
+                            - generic [ref=e2736]:
+                              - generic [ref=e2737]: 28%
+                              - generic [ref=e2738]: 27,810원~
+                          - generic [ref=e2739]: "956"
+                  - article [ref=e2749] [cursor=pointer]:
+                    - link "+20%쿠폰 담기 [프로그] 고무장갑 컴포트 퍼플 3개입 & 5개입 6종 (택1) 7,800원 49% 3,920원~ 9,999+ Kurly Only" [ref=e2750]:
+                      - /url: /goods/1000785514?collectionCode=10livingfair-306001
+                      - generic [ref=e2751]:
+                        - paragraph [ref=e2758]: +20%쿠폰
+                        - button "담기" [ref=e2759]
+                        - generic [ref=e2764]:
+                          - heading "[프로그] 고무장갑 컴포트 퍼플 3개입 & 5개입 6종 (택1)" [level=4] [ref=e2766]
+                          - generic [ref=e2767]:
+                            - text: 7,800원
+                            - generic [ref=e2768]:
+                              - generic [ref=e2769]: 49%
+                              - generic [ref=e2770]: 3,920원~
+                          - generic [ref=e2771]: 9,999+
+                          - generic [ref=e2779]: Kurly Only
+                  - article [ref=e2783] [cursor=pointer]:
+                    - link "20+20%쿠폰 담기 [실리만] 컬리단독 세렌 IH 세라믹 프라이팬&웍 단품/선물세트 (택1) 28,000원 40% 16,800원~ 999+ Kurly Only" [ref=e2784]:
+                      - /url: /goods/1002174598?collectionCode=10livingfair-306001
+                      - generic [ref=e2785]:
+                        - paragraph [ref=e2792]: 20+20%쿠폰
+                        - button "담기" [ref=e2793]
+                        - generic [ref=e2798]:
+                          - heading "[실리만] 컬리단독 세렌 IH 세라믹 프라이팬&웍 단품/선물세트 (택1)" [level=4] [ref=e2800]
+                          - generic [ref=e2801]:
+                            - text: 28,000원
+                            - generic [ref=e2802]:
+                              - generic [ref=e2803]: 40%
+                              - generic [ref=e2804]: 16,800원~
+                          - generic [ref=e2805]: 999+
+                          - generic [ref=e2813]: Kurly Only
+                  - article [ref=e2817] [cursor=pointer]:
+                    - link "반짝특가 담기 [카포드] 초고농축 캡슐 세탁세제 (30개입) 2종 (택1) 30,900원 42% 17,900원 999+" [ref=e2818]:
+                      - /url: /goods/1000639889?collectionCode=10livingfair-306001
+                      - generic [ref=e2819]:
+                        - paragraph [ref=e2826]: 반짝특가
+                        - button "담기" [ref=e2827]
+                        - generic [ref=e2832]:
+                          - heading "[카포드] 초고농축 캡슐 세탁세제 (30개입) 2종 (택1)" [level=4] [ref=e2834]
+                          - generic [ref=e2835]:
+                            - text: 30,900원
+                            - generic [ref=e2836]:
+                              - generic [ref=e2837]: 42%
+                              - generic [ref=e2838]: 17,900원
+                          - generic [ref=e2839]: 999+
+                  - article [ref=e2849] [cursor=pointer]:
+                    - link "+7천원 쿠폰 담기 [디온리] 국내생산 무드등 저소음 초음파 수면 가습기 NWH903W (화이트 단품) 99,000원 61% 37,800원 27" [ref=e2850]:
+                      - /url: /goods/1000206160?collectionCode=10livingfair-306001
+                      - generic [ref=e2851]:
+                        - paragraph [ref=e2858]: +7천원 쿠폰
+                        - button "담기" [ref=e2859]
+                        - generic [ref=e2864]:
+                          - heading "[디온리] 국내생산 무드등 저소음 초음파 수면 가습기 NWH903W (화이트 단품)" [level=4] [ref=e2866]
+                          - generic [ref=e2867]:
+                            - text: 99,000원
+                            - generic [ref=e2868]:
+                              - generic [ref=e2869]: 61%
+                              - generic [ref=e2870]: 37,800원
+                          - generic [ref=e2871]: "27"
+                  - article [ref=e2881] [cursor=pointer]:
+                    - link "담기 [보이러] 전기요 레드플라워 빨아쓰는 전기매트 온열매트 (레드플라워 1인용 UB03) 119,000원 45% 65,000원 36" [ref=e2882]:
+                      - /url: /goods/1001623647?collectionCode=10livingfair-306001
+                      - generic [ref=e2883]:
+                        - button "담기" [ref=e2889]
+                        - generic [ref=e2894]:
+                          - heading "[보이러] 전기요 레드플라워 빨아쓰는 전기매트 온열매트 (레드플라워 1인용 UB03)" [level=4] [ref=e2896]
+                          - generic [ref=e2897]:
+                            - text: 119,000원
+                            - generic [ref=e2898]:
+                              - generic [ref=e2899]: 45%
+                              - generic [ref=e2900]: 65,000원
+                          - generic [ref=e2901]: "36"
+                  - article [ref=e2911] [cursor=pointer]:
+                    - link "담기 [브랜든] 이불 압축 파우치 와이드 (침대 하부장/틈새 수납) 66,000원 43% 37,000원~" [ref=e2912]:
+                      - /url: /goods/1002192064?collectionCode=10livingfair-306001
+                      - generic [ref=e2913]:
+                        - button "담기" [ref=e2919]
+                        - generic [ref=e2924]:
+                          - heading "[브랜든] 이불 압축 파우치 와이드 (침대 하부장/틈새 수납)" [level=4] [ref=e2926]
+                          - generic [ref=e2927]:
+                            - text: 66,000원
+                            - generic [ref=e2928]:
+                              - generic [ref=e2929]: 43%
+                              - generic [ref=e2930]: 37,000원~
+                  - article [ref=e2933] [cursor=pointer]:
+                    - link "+15%쿠폰 담기 [포레몽] 베이직 온수매트 Mini, S, Q (택1) 299,000원 43% 169,150원~ 237" [ref=e2934]:
+                      - /url: /goods/1001721466?collectionCode=10livingfair-306001
+                      - generic [ref=e2935]:
+                        - paragraph [ref=e2942]: +15%쿠폰
+                        - button "담기" [ref=e2943]
+                        - generic [ref=e2948]:
+                          - heading "[포레몽] 베이직 온수매트 Mini, S, Q (택1)" [level=4] [ref=e2950]
+                          - generic [ref=e2951]:
+                            - text: 299,000원
+                            - generic [ref=e2952]:
+                              - generic [ref=e2953]: 43%
+                              - generic [ref=e2954]: 169,150원~
+                          - generic [ref=e2955]: "237"
+                  - article [ref=e2965] [cursor=pointer]:
+                    - link "+4천원쿠폰 담기 [다이슨] 슈퍼소닉 트래블 헤어드라이어 (세라믹 핑크) (단품) 399,000원 6% 375,000원" [ref=e2966]:
+                      - /url: /goods/1002400486?collectionCode=10livingfair-306001
+                      - generic [ref=e2967]:
+                        - paragraph [ref=e2974]: +4천원쿠폰
+                        - button "담기" [ref=e2975]
+                        - generic [ref=e2980]:
+                          - heading "[다이슨] 슈퍼소닉 트래블 헤어드라이어 (세라믹 핑크) (단품)" [level=4] [ref=e2982]
+                          - generic [ref=e2983]:
+                            - text: 399,000원
+                            - generic [ref=e2984]:
+                              - generic [ref=e2985]: 6%
+                              - generic [ref=e2986]: 375,000원
+                  - article [ref=e2989] [cursor=pointer]:
+                    - link "최대혜택가 483,125원~ 5+12% 쿠폰 담기 [신일] (48만원대) 팬히터 1200 화이트 등유 이동식난로 SFH-1200MG (SFH-1200MG) 799,000원 31% 549,005원" [ref=e2990]:
+                      - /url: /goods/1001589194?collectionCode=10livingfair-306001
+                      - generic [ref=e2991]:
+                        - generic [ref=e2996]:
+                          - generic [ref=e2997]: 최대혜택가 483,125원~
+                          - paragraph [ref=e3000]: 5+12% 쿠폰
+                        - button "담기" [ref=e3001]
+                        - generic [ref=e3006]:
+                          - heading "[신일] (48만원대) 팬히터 1200 화이트 등유 이동식난로 SFH-1200MG (SFH-1200MG)" [level=4] [ref=e3008]
+                          - generic [ref=e3009]:
+                            - text: 799,000원
+                            - generic [ref=e3010]:
+                              - generic [ref=e3011]: 31%
+                              - generic [ref=e3012]: 549,005원
+                  - article [ref=e3015] [cursor=pointer]:
+                    - link "최대혜택가 391,666원~ 5+12% 쿠폰 담기 [신일] (39만원대) 팬히터 900 블랙 등유 이동식 난로 SFH-TH900H (SFH-TH900H) 650,000원 31% 445,075원 12" [ref=e3016]:
+                      - /url: /goods/1001589200?collectionCode=10livingfair-306001
+                      - generic [ref=e3017]:
+                        - generic [ref=e3022]:
+                          - generic [ref=e3023]: 최대혜택가 391,666원~
+                          - paragraph [ref=e3026]: 5+12% 쿠폰
+                        - button "담기" [ref=e3027]
+                        - generic [ref=e3032]:
+                          - heading "[신일] (39만원대) 팬히터 900 블랙 등유 이동식 난로 SFH-TH900H (SFH-TH900H)" [level=4] [ref=e3034]
+                          - generic [ref=e3035]:
+                            - text: 650,000원
+                            - generic [ref=e3036]:
+                              - generic [ref=e3037]: 31%
+                              - generic [ref=e3038]: 445,075원
+                          - generic [ref=e3039]: "12"
+                  - article [ref=e3049] [cursor=pointer]:
+                    - link "20+20%쿠폰 담기 [드리울] 모달 패드일체형 올인원 누빔 매트리스커버 24종(택1) 145,000원 74% 36,720원~ 329" [ref=e3050]:
+                      - /url: /goods/1001324284?collectionCode=10livingfair-306001
+                      - generic [ref=e3051]:
+                        - paragraph [ref=e3058]: 20+20%쿠폰
+                        - button "담기" [ref=e3059]
+                        - generic [ref=e3064]:
+                          - heading "[드리울] 모달 패드일체형 올인원 누빔 매트리스커버 24종(택1)" [level=4] [ref=e3066]
+                          - generic [ref=e3067]:
+                            - text: 145,000원
+                            - generic [ref=e3068]:
+                              - generic [ref=e3069]: 74%
+                              - generic [ref=e3070]: 36,720원~
+                          - generic [ref=e3071]: "329"
+                  - article [ref=e3081] [cursor=pointer]:
+                    - link "+10%쿠폰 담기 [더 조선호텔] 헤리 양모 침구 14종 (택1) 45,000원 14% 38,475원~" [ref=e3082]:
+                      - /url: /goods/1002502841?collectionCode=10livingfair-306001
+                      - generic [ref=e3083]:
+                        - paragraph [ref=e3090]: +10%쿠폰
+                        - button "담기" [ref=e3091]
+                        - generic [ref=e3096]:
+                          - heading "[더 조선호텔] 헤리 양모 침구 14종 (택1)" [level=4] [ref=e3098]
+                          - generic [ref=e3099]:
+                            - text: 45,000원
+                            - generic [ref=e3100]:
+                              - generic [ref=e3101]: 14%
+                              - generic [ref=e3102]: 38,475원~
+                  - link [ref=e3104] [cursor=pointer]:
+                    - /url: /collections/10livingfair-306001
+                    - paragraph [ref=e3109]: 전체보기
+                - button [ref=e3111] [cursor=pointer]
+      - button "맨 위로 이동" [ref=e3116] [cursor=pointer]
+    - generic [ref=e3118]:
+      - generic [ref=e3119]:
+        - generic [ref=e3120]:
+          - generic [ref=e3121]:
+            - paragraph [ref=e3122]: 고객행복센터
+            - strong [ref=e3123]: 1644-1107월~토요일 오전 7시 - 오후 6시
+            - generic [ref=e3124]:
+              - generic [ref=e3125]:
+                - button "카카오톡 문의" [ref=e3126] [cursor=pointer]
+                - generic [ref=e3127]: 월~토요일오전 7시 - 오후 6시일/공휴일오전 7시 - 오후 1시
+              - generic [ref=e3130]:
+                - button "1:1 문의" [ref=e3131] [cursor=pointer]
+                - generic [ref=e3132]: 365일고객센터 운영시간에 순차적으로 답변드리겠습니다.
+              - generic [ref=e3133]:
+                - link "대량주문 문의" [ref=e3134] [cursor=pointer]:
+                  - /url: https://docs.google.com/forms/d/e/1FAIpQLScWcjRuN6eWJK-G8x3NwBfE8IyKZIOq7jhD3fUXuKSWwPqzJw/viewform
+                - generic [ref=e3135]: 월~금요일오전 9시 - 오후 6시점심시간낮 12시 - 오후 1시
+            - generic [ref=e3138]:
+              - text: "비회원 문의 :"
+              - link "help@kurlycorp.com" [ref=e3139] [cursor=pointer]:
+                - /url: mailto:help@kurlycorp.com
+          - generic [ref=e3140]:
+            - list [ref=e3141]:
+              - listitem [ref=e3142]:
+                - link "회사소개" [ref=e3143] [cursor=pointer]:
+                  - /url: https://newsroom.kurlycorp.com/
+              - listitem [ref=e3144]:
+                - link "컬리소개영상" [ref=e3145] [cursor=pointer]:
+                  - /url: https://www.youtube.com/embed/WEep7BcboMQ?rel=0&showinfo=0&wmode=opaque&enablejsapi=1
+              - listitem [ref=e3146]:
+                - link "투자정보" [ref=e3147] [cursor=pointer]:
+                  - /url: https://newsroom.kurlycorp.com/ir/%ec%9e%ac%eb%ac%b4%ec%a0%95%eb%b3%b4/
+              - listitem [ref=e3148]:
+                - link "인재채용" [ref=e3149] [cursor=pointer]:
+                  - /url: https://kurly.career.greetinghr.com
+              - listitem [ref=e3150]:
+                - link "이용약관" [ref=e3151] [cursor=pointer]:
+                  - /url: /user-terms/agreement
+              - listitem [ref=e3152]:
+                - link "개인정보처리방침" [ref=e3153] [cursor=pointer]:
+                  - /url: https://privacy.kurly.com/kurly/privacypolicy
+              - listitem [ref=e3154]:
+                - link "이용안내" [ref=e3155] [cursor=pointer]:
+                  - /url: /user-guide
+              - listitem [ref=e3156]:
+                - link "입점신청" [ref=e3157] [cursor=pointer]:
+                  - /url: https://docs.google.com/forms/d/e/1FAIpQLScKI_Kd1lQAp68r-SIhiOWj0J43C99IvNbgFeT7-X9YLIqteA/viewform?usp=dialog
+            - generic [ref=e3158]:
+              - text: "법인명 (상호) : 주식회사 컬리"
+              - generic [ref=e3159]: "|"
+              - text: "사업자등록번호 : 261-81-23567"
+              - link "사업자정보 확인" [ref=e3160] [cursor=pointer]:
+                - /url: https://www.ftc.go.kr/bizCommPop.do?wrkr_no=2618123567&apv_perm_no=
+              - text: "통신판매업 : 제 2018-서울강남-01646 호주소 : 서울특별시 강남구 테헤란로 133, 18층(역삼동)"
+              - generic [ref=e3161]: "|"
+              - text: "대표이사 : 김슬아채용문의 :"
+              - link "recruit@kurlycorp.com" [ref=e3162] [cursor=pointer]:
+                - /url: mailto:recruit@kurlycorp.com
+              - text: "팩스: 070 - 7500 - 6098"
+            - list [ref=e3163]:
+              - listitem [ref=e3164]:
+                - link [ref=e3165] [cursor=pointer]:
+                  - /url: https://instagram.com/marketkurly
+                  - img "컬리 인스타그램 바로가기" [ref=e3166]
+              - listitem [ref=e3167]:
+                - link [ref=e3168] [cursor=pointer]:
+                  - /url: https://www.facebook.com/marketkurly
+                  - img "컬리 페이스북 바로가기" [ref=e3169]
+              - listitem [ref=e3170]:
+                - link [ref=e3171] [cursor=pointer]:
+                  - /url: https://blog.naver.com/marketkurly
+                  - img "컬리 네이버블로그 바로가기" [ref=e3172]
+              - listitem [ref=e3173]:
+                - link [ref=e3174] [cursor=pointer]:
+                  - /url: https://www.youtube.com/channel/UCfpdjL5pl-1qKT7Xp4UQzQg
+                  - img "컬리 유튜브 바로가기" [ref=e3175]
+        - generic [ref=e3176]:
+          - button [ref=e3177] [cursor=pointer]:
+            - img "isms 로고" [ref=e3178]
+            - paragraph [ref=e3179]: "[인증범위] 컬리 쇼핑몰 서비스 개발·운영(심사받지 않은 물리적 인프라 제외)[유효기간] 2025.01.15 ~ 2028.01.14"
+          - button [ref=e3180] [cursor=pointer]:
+            - img "우리은행 로고" [ref=e3181]
+            - paragraph [ref=e3182]: 고객님이 현금으로 결제한 금액에 대해 우리은행과채무지급보증 계약을 체결하여 안전거래를 보장하고있습니다.
+      - generic [ref=e3183]:
+        - text: 컬리에서 판매되는 상품 중에는 컬리에 입점한 개별 판매자가 판매하는 마켓플레이스(오픈마켓) 상품이 포함되어 있습니다.마켓플레이스(오픈마켓) 상품의 경우 컬리는 통신판매중개자로서 통신판매의 당사자가 아닙니다. 컬리는 해당 상품의 주문, 품질, 교환/환불 등 의무와 책임을 부담하지 않습니다.
+        - emphasis [ref=e3184]: © KURLY CORP. ALL RIGHTS RESERVED
+  - alert [ref=e3185]
