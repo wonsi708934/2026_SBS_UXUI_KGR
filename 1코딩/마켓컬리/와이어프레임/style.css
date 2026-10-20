@@ -72,6 +72,14 @@ ul, li {
 }
 
 
+/* component */
+.con {
+  width: 1050px; 
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+}
+
 
 .top-banner{
   height: 42px;
@@ -85,17 +93,13 @@ ul, li {
 }
 .utility-menu {
   /*선*/
-  border: 1px solid red;
 }
-.con {
-  border: 1px solid orange;
-  width: 1050px; height: 35px;
-  margin-left: auto;
-  margin-right: auto;
-  display: flex;
+.utility-con {
+  height: 35px;
   justify-content: flex-end;
   align-items: center;
 }
+
 .con>nav>ul {
   display: flex;
   gap: 12px;
@@ -103,4 +107,43 @@ ul, li {
 }
 .signup-link {
   color: #5f0080;
+}
+
+.m-header-con {
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+.brand{
+  display: flex; gap: 20px;
+  align-items: center;
+  width: 250px;
+}
+.brand-tabs {
+  display: flex; gap: 20px;
+  font-size: 10;
+  color:  #b5b5b5;
+}
+.brand-tab.active {
+  color: #5f0080;
+  font-weight: 500;
+}
+
+.search{
+  width: 400px; height: 48px;
+  border: 1px solid #5f0080;
+  border-radius: 8px;
+  padding-left: 20px;
+  padding-left: 20px;
+  /* 태그 크기 안에 padding과 선 크기 포함 */
+  box-sizing: border-box;
+  display: flex; align-items: center;
+  font-size: 16px; color: #b5b5b5;
+}
+
+.actions {
+  width: 250px; gap: 20px;
+  display: flex;
+  justify-content:flex-end;
 }
