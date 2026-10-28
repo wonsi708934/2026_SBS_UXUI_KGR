@@ -106,16 +106,11 @@ header {
 }
 
 /* 투명도 0~1 */
-.header-con {
-  /* 세로 방향 정렬 */
-  flex-direction: column;
-}
 
-.utmenu {
+.utmenu-con {
   display: flex;
-  /* 왼쪽 오른쪽 분리 */
-  justify-content: space-between;
   height: 58px;
+  justify-content: space-between;
 }
 
 .links {
@@ -167,9 +162,12 @@ header {
 }
 
 .top-bar {
-  /* border: 1px solid blue; */
+  border: 1px solid blue;
 }
-
+.topbar-con {
+display: flex;
+  justify-content: space-between;
+}
 main {
   border: 1px solid red;
 }
