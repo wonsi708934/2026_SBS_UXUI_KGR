@@ -1,0 +1,216 @@
+- generic [active] [ref=f12e1]:
+  - generic [ref=f12e2]:
+    - link "Skip to content" [ref=f12e3] [cursor=pointer]:
+      - /url: main-content
+    - generic [ref=f12e4]:
+      - navigation "Nav bar" [ref=f12e5]:
+        - link "Fonts" [ref=f12e6] [cursor=pointer]:
+          - /url: /
+          - img [aria-hidden] [ref=f12e9]: font_download
+        - link "Noto" [ref=f12e11] [cursor=pointer]:
+          - /url: /noto
+          - img [aria-hidden] [ref=f12e14]: language
+        - link "Icons" [ref=f12e16] [cursor=pointer]:
+          - /url: /icons
+          - img [aria-hidden] [ref=f12e19]: interests
+        - link "Knowledge" [ref=f12e21] [cursor=pointer]:
+          - /url: /knowledge
+          - img [aria-hidden] [ref=f12e24]: school
+        - link "FAQ" [ref=f12e26] [cursor=pointer]:
+          - /url: /faq
+          - img [aria-hidden] [ref=f12e29]: help
+        - button "Switch to dark theme" [ref=f12e33] [cursor=pointer]:
+          - img [aria-hidden] [ref=f12e35]: dark_mode
+      - generic [ref=f12e38]:
+        - dialog "Left drawer" [ref=f12e40]:
+          - generic [ref=f12e43]:
+            - generic [ref=f12e44]:
+              - button "Reset all filters" [disabled]:
+                - generic:
+                  - generic:
+                    - generic [aria-hidden]:
+                      - img [aria-hidden]: refresh
+                    - generic: Reset all
+              - button "Close filters drawer" [ref=f12e45] [cursor=pointer]:
+                - img [aria-hidden] [ref=f12e47]: close
+            - heading "Customize" [level=2] [ref=f12e51]:
+              - img [aria-hidden] [ref=f12e53]: tune
+              - text: Customize
+            - generic [ref=f12e54]:
+              - generic [ref=f12e56]:
+                - generic [ref=f12e57]:
+                  - generic [ref=f12e58]: Fill
+                  - button "More information about the Fill axis" [ref=f12e59] [cursor=pointer]:
+                    - img [aria-hidden] [ref=f12e61]: info
+                - switch "Fill" [ref=f12e66] [cursor=pointer]
+              - generic [ref=f12e77]:
+                - generic [ref=f12e79]:
+                  - generic [ref=f12e80]: Weight
+                  - button "More information about the Weight axis" [ref=f12e81] [cursor=pointer]:
+                    - img [aria-hidden] [ref=f12e83]: info
+                - generic [ref=f12e86] [cursor=pointer]:
+                  - slider "Weight" [ref=f12e87]: "400"
+                  - generic: "400"
+                - generic [ref=f12e88]:
+                  - generic [ref=f12e89]: "100"
+                  - generic [ref=f12e90]: "700"
+              - generic [ref=f12e91]:
+                - generic [ref=f12e93]:
+                  - generic [ref=f12e94]: Grade
+                  - button "More information about the Grade axis" [ref=f12e95] [cursor=pointer]:
+                    - img [aria-hidden] [ref=f12e97]: info
+                - generic [ref=f12e100] [cursor=pointer]:
+                  - slider "Grade" [ref=f12e101]: "1"
+                  - generic: "0"
+                - generic [ref=f12e102]:
+                  - generic [ref=f12e103]: "-25 (low)"
+                  - generic [ref=f12e104]: 200 (high emphasis)
+              - generic [ref=f12e105]:
+                - generic [ref=f12e107]:
+                  - generic [ref=f12e108]: Optical Size
+                  - button "More information about the Optical Size axis" [ref=f12e109] [cursor=pointer]:
+                    - img [aria-hidden] [ref=f12e111]: info
+                - generic [ref=f12e114] [cursor=pointer]:
+                  - slider "Optical Size" [ref=f12e115]: "1"
+                  - generic: "24"
+                - generic [ref=f12e116]:
+                  - generic [ref=f12e117]: 20px
+                  - generic [ref=f12e118]: 48px
+            - separator [ref=f12e119]
+            - heading "Filter" [level=2] [ref=f12e121]
+            - generic [ref=f12e123]:
+              - button [expanded] [ref=f12e124] [cursor=pointer]:
+                - generic [ref=f12e126]:
+                  - img [aria-hidden] [ref=f12e128]: apparel
+                  - text: Style
+              - region "Style" [ref=f12e133]:
+                - generic [ref=f12e134]:
+                  - combobox "Select an icon set" [ref=f12e140] [cursor=pointer]:
+                    - generic [ref=f12e141]: Material Symbols (new)
+                  - combobox "Select an icon style" [ref=f12e153] [cursor=pointer]:
+                    - generic [ref=f12e154]: Outlined
+        - generic [ref=f12e162]:
+          - banner [ref=f12e165]:
+            - generic [ref=f12e166]:
+              - link "Google Fonts" [ref=f12e168] [cursor=pointer]:
+                - /url: https://fonts.google.com/?selected=Material+Symbols+Outlined:person:FILL@0;wght@400;GRAD@0;opsz@24&icon.query=person
+              - generic [ref=f12e180]:
+                - generic [ref=f12e181]:
+                  - generic [ref=f12e186]:
+                    - img [aria-hidden] [ref=f12e189]: search
+                    - combobox "Search icons" [ref=f12e191]: person
+                    - button "Clear search" [ref=f12e193] [cursor=pointer]:
+                      - img [aria-hidden] [ref=f12e195]: close
+                  - separator [ref=f12e198]
+                  - generic [ref=f12e204] [cursor=pointer]:
+                    - generic [ref=f12e205]: Sort by
+                    - combobox "Select a sort order" [ref=f12e206]:
+                      - generic [ref=f12e207]: Most popular
+                - generic [ref=f12e216]:
+                  - button "View selected families" [disabled]:
+                    - generic [aria-hidden]:
+                      - img [aria-hidden]: shopping_bag
+            - button "Close Filters panel" [expanded] [ref=f12e219]:
+              - generic [ref=f12e220]:
+                - img [aria-hidden] [ref=f12e222]: close
+                - text: Filters
+          - generic [ref=f12e226]:
+            - main [ref=f12e227]:
+              - generic [ref=f12e231]:
+                - generic [ref=f12e234]:
+                  - generic [ref=f12e235]:
+                    - link "Material Design icon guidelines Learn about the latest best practices for icons" [ref=f12e237] [cursor=pointer]:
+                      - /url: https://m3.material.io/styles/icons/overview
+                      - generic [ref=f12e238]:
+                        - generic [ref=f12e239]:
+                          - generic [ref=f12e240]: Material Design icon guidelines
+                          - generic [ref=f12e241]: Learn about the latest best practices for icons
+                        - img [aria-hidden] [ref=f12e248]: material_design
+                    - link "Figma plugin Use the Material Symbols plugin on Figma" [ref=f12e250] [cursor=pointer]:
+                      - /url: https://www.figma.com/community/plugin/1088610476491668236/material-symbols
+                      - generic [ref=f12e252]:
+                        - generic [ref=f12e253]: Figma plugin
+                        - generic [ref=f12e254]: Use the Material Symbols plugin on Figma
+                    - link "GitHub repo This repository contains the binary font file served by Google Fonts" [ref=f12e265] [cursor=pointer]:
+                      - /url: https://github.com/google/material-design-icons
+                      - generic [ref=f12e266]:
+                        - generic [ref=f12e267]:
+                          - generic [ref=f12e268]: GitHub repo
+                          - generic [ref=f12e269]: This repository contains the binary font file served by Google Fonts
+                        - img [aria-hidden] [ref=f12e276]: arrow_outward
+                    - link "Apache license Material Symbols are available under the Apache License Version 2.0" [ref=f12e278] [cursor=pointer]:
+                      - /url: https://www.apache.org/licenses/LICENSE-2.0.html
+                      - generic [ref=f12e279]:
+                        - generic [ref=f12e280]:
+                          - generic [ref=f12e281]: Apache license
+                          - generic [ref=f12e282]: Material Symbols are available under the Apache License Version 2.0
+                        - img [aria-hidden] [ref=f12e289]: arrow_outward
+                    - link "Developer guide How to use Material Symbols in your projects" [ref=f12e291] [cursor=pointer]:
+                      - /url: https://developers.google.com/fonts/docs/material_symbols
+                      - generic [ref=f12e292]:
+                        - generic [ref=f12e293]:
+                          - generic [ref=f12e294]: Developer guide
+                          - generic [ref=f12e295]: How to use Material Symbols in your projects
+                        - img [aria-hidden] [ref=f12e302]: code
+                    - link "Download Material Symbols Get all Material Symbols in a single variable font file" [ref=f12e304] [cursor=pointer]:
+                      - /url: /download?family=Material Symbols Outlined|Material Symbols Rounded|Material Symbols Sharp
+                      - generic [ref=f12e305]:
+                        - generic [ref=f12e306]:
+                          - generic [ref=f12e307]: Download Material Symbols
+                          - generic [ref=f12e308]: Get all Material Symbols in a single variable font file
+                        - img [aria-hidden] [ref=f12e315]: download
+                  - button [aria-hidden] [ref=f12e316] [cursor=pointer]:
+                    - img [aria-hidden] [ref=f12e319]: arrow_forward_ios
+                - heading "Find the icons for your project" [level=1] [ref=f12e322]
+            - contentinfo [ref=f12e325]:
+              - generic [ref=f12e326]:
+                - generic [ref=f12e327]:
+                  - generic "Google Fonts" [ref=f12e328]
+                  - generic [ref=f12e332]: Google Fonts makes it easy to bring personality and performance to your websites and products. Our robust catalog of open-source fonts and icons makes it easy to integrate expressive type and icons seamlessly — no matter where you are in the world.
+                - generic [ref=f12e335]:
+                  - list [ref=f12e336]:
+                    - listitem [ref=f12e337]:
+                      - link [ref=f12e339] [cursor=pointer]:
+                        - /url: /about
+                        - generic [ref=f12e355]:
+                          - paragraph [ref=f12e356]: About us
+                          - paragraph [ref=f12e357]: Making the web more beautiful, fast, and open through great typography & icons
+                    - listitem [ref=f12e358]:
+                      - link [ref=f12e360] [cursor=pointer]:
+                        - /url: https://github.com/google/fonts
+                        - generic [ref=f12e368]:
+                          - paragraph [ref=f12e369]: Fonts GitHub
+                          - paragraph [ref=f12e370]: This repository contains the binary font files served by Google Fonts
+                    - listitem [ref=f12e371]:
+                      - link [ref=f12e373] [cursor=pointer]:
+                        - /url: https://github.com/google/material-design-icons
+                        - generic [ref=f12e381]:
+                          - paragraph [ref=f12e382]: Icons GitHub
+                          - paragraph [ref=f12e383]: This repository contains the binary font files served by Google Icons
+                  - list [ref=f12e384]:
+                    - listitem [ref=f12e385]:
+                      - link [ref=f12e387] [cursor=pointer]:
+                        - /url: https://fonts.googleblog.com/
+                        - generic [ref=f12e393]:
+                          - paragraph [ref=f12e394]: Fonts blog
+                          - paragraph [ref=f12e395]: This blog has stories about how different fonts were designed for various languages and scripts
+                    - listitem [ref=f12e396]:
+                      - link [ref=f12e398] [cursor=pointer]:
+                        - /url: https://m3.material.io/styles/typography/overview
+                        - generic [ref=f12e406]:
+                          - paragraph [ref=f12e407]: Material Design
+                          - paragraph [ref=f12e408]: A cross-platform design system for creating high-quality digital experiences
+                    - listitem [ref=f12e409]:
+                      - link [ref=f12e411] [cursor=pointer]:
+                        - /url: https://design.google/tags/typography
+                        - generic [ref=f12e417]:
+                          - paragraph [ref=f12e418]: Google Design
+                          - paragraph [ref=f12e419]: Google Design highlights the breadth and craft of design and fonts from speculation, to work-in-progress, to finished product
+              - generic [ref=f12e432]:
+                - link "Privacy" [ref=f12e433] [cursor=pointer]:
+                  - /url: https://policies.google.com/privacy?hl=en
+                - link "Terms of service" [ref=f12e434] [cursor=pointer]:
+                  - /url: https://policies.google.com/terms?hl=en
+            - button "Leave feedback" [ref=f12e435] [cursor=pointer]:
+              - img [aria-hidden] [ref=f12e437]: feedback
+  - generic [ref=f12e442]: Material Symbols & Icons - Google Fonts

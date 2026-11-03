@@ -1,0 +1,104 @@
+@font-face {
+  font-family: 'Pretendard';
+  src: url('../../font/Pretendard-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Pretendard';
+  src: url('../../font/Pretendard-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Pretendard';
+  src: url('../../font/Pretendard-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-display: swap;
+}
+body {
+  font-family: 'Pretendard', sans-serif;
+  font-size: 14px;
+  color: #333333;
+  background-color: #fdfbf7;
+}
+body, ul, li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+  font-weight: normal;
+  font-size: inherit;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+button {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-color: transparent;
+  color: inherit;
+  font-family: 'Pretendard', sans-serif;
+}
+img {
+  display: block;
+  background-color: transparent;
+}
+
+.con {
+  width: 1400px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+}
+
+.announcement {
+  height:28px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-size:11px;
+  background-color:#ffffff;
+}
+.header-con {
+  height:88px;
+  align-items:center;
+  justify-content:space-between;
+}
+.main-nav {
+  width:520px;
+}
+.main-nav > ul {
+  display:flex;
+  gap:32px;
+}
+.main-nav > ul > li {
+  font-size:14px;
+}
+.main-nav > ul > li > a:hover {
+  color:#00a1df;
+}
+.logo-box img {
+  width:25px;
+  height:62px;
+}
+.header-util {
+  width:520px;
+  display:flex;
+}
+.header-icons {
+  margin-left:auto;
+  display:flex;
+  gap:24px;
+  align-items:center;
+}
+.header-icons img {
+  width:24px;
+  height:24px;
+}
