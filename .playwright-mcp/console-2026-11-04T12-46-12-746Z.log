@@ -1,0 +1,15 @@
+[   22393ms] [ERROR] Executing inline event handler violates the following Content Security Policy directive 'script-src 'nonce-MNf40zQ4g6YwDvUQhmYuPA' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:'. Note that 'unsafe-inline' is ignored if either a hash or nonce value is present in the source list. The action has been blocked. @ https://www.google.com/search?q=%EB%B8%94%EB%A3%A8%EB%B3%B4%ED%8B%80&oq=%EB%B8%94%EB%A3%A8%EB%B3%B4%ED%8B%80&gs_lcrp=EgZjaHJvbWUqDQgAEAAY4wIYsQMYgAQyDQgAEAAY4wIYsQMYgAQyEAgBEC4YxwEYsQMY0QMYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPTIGCAYQRRg9MgYIBxBFGD3SAQg0MDA0ajBqMqgCALACAA&sourceid=chrome&ie=UTF-8:0
+[   24767ms] [LOG] swiper-pagination-bullet @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:0
+[   24768ms] [LOG] index 0 @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:0
+[   24768ms] [LOG] swiper-pagination-bullet @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:0
+[   24768ms] [LOG] index 1 @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:0
+[   24768ms] [LOG] swiper-pagination-bullet @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:0
+[   24768ms] [LOG] index 2 @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:0
+[   24768ms] [LOG] {loop: true} @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:0
+[   24894ms] [LOG] bootstap @ https://cdn.shopify.com/extensions/01a1a570-5499-739c-be28-7e503d589389/gift-box-builder-1-510/assets/easy-bundle-min.js:0
+[   25047ms] [LOG] ChannelIO script loaded with plugin key: 4a7023e0-203e-430b-bd7e-cf76617bfc5d @ https://kr.bluebottlecoffee.com/?srsltid=AYCX9vIqhpXw-zUsdau46tpqmnWxsxlakZZhADIaesK-r59JvgQVsjWd:4724
+[   25382ms] [WARNING] In a sandboxed environment, addEventListener may not behave as expected. @ https://kr.bluebottlecoffee.com/cdn/wpm/s8623cf63wa37add5bpb2771a08mfc45efacm.js:0
+[   25494ms] [WARNING] In a sandboxed environment, addEventListener may not behave as expected. @ https://kr.bluebottlecoffee.com/cdn/wpm/s8623cf63wa37add5bpb2771a08mfc45efacm.js:0
+[   26833ms] [INFO] pageView @ https://kr.bluebottlecoffee.com/web-pixels@8623cf63wa37add5bpb2771a08mfc45efac/custom/web-pixel-36733181@2/sandbox/modern/?srsltid=AYCX9vIqhpXw-zUsdau46tpqmnWxsxlakZZhADIaesK-r59JvgQVsjWd:24
+[   26841ms] [INFO] pageView naver @ https://kr.bluebottlecoffee.com/web-pixels@8623cf63wa37add5bpb2771a08mfc45efac/custom/web-pixel-38568189@25/sandbox/modern/?srsltid=AYCX9vIqhpXw-zUsdau46tpqmnWxsxlakZZhADIaesK-r59JvgQVsjWd:32
+[ 1528291ms] [ERROR] Failed to load resource: net::ERR_NETWORK_IO_SUSPENDED @ https://gw.channel.io/front/routes/info?channelId=174545&type=socket&subType=clientFront:0
