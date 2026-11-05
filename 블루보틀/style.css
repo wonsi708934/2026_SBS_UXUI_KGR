@@ -1,18 +1,18 @@
 @font-face {
   font-family: 'Pretendard';
-  src: url('../../font/Pretendard-Regular.woff2') format('woff2');
+  src: url('../font/Pretendard-Regular.woff2') format('woff2');
   font-weight: 400;
   font-display: swap;
 }
 @font-face {
   font-family: 'Pretendard';
-  src: url('../../font/Pretendard-Medium.woff2') format('woff2');
+  src: url('../font/Pretendard-Medium.woff2') format('woff2');
   font-weight: 500;
   font-display: swap;
 }
 @font-face {
   font-family: 'Pretendard';
-  src: url('../../font/Pretendard-Bold.woff2') format('woff2');
+  src: url('../font/Pretendard-Bold.woff2') format('woff2');
   font-weight: 700;
   font-display: swap;
 }
@@ -48,7 +48,9 @@ img {
   display: block;
   background-color: transparent;
 }
-
+/* 모나미의 .con: 콘텐츠 너비와 가운데 배치, 기본 가로 배치를 담당합니다.
+   내용 1400px + 좌우 padding 각 20px = 바깥 너비 1440px입니다.
+   원본과 정답은 1600px PC 화면에서 비교합니다. */
 .con {
   width: 1400px;
   padding-left: 20px;
@@ -57,6 +59,8 @@ img {
   margin-right: auto;
   display: flex;
 }
+
+/* BBC-01 시작 — 상단: 모나미 topbar-con의 양끝 정렬과 로고·메뉴·아이콘 묶음 */
 
 .announcement {
   height:28px;
@@ -81,6 +85,9 @@ img {
 .main-nav > ul > li {
   font-size:14px;
 }
+.main-nav > ul > li > a:hover {
+  color:#00a1df;
+}
 .logo-box img {
   width:25px;
   height:62px;
@@ -100,43 +107,45 @@ img {
   height:24px;
 }
 
-/* 문구와 컨트롤의 배치 기준 */
-.main-slider {
-  position: relative;
-  width: 100%;
-  height: 650px;
-  overflow: hidden;
+/* BBC-01 끝 */
+
+/* BBC-02 시작 — 메인비주얼: 사진과 문구를 가로로 나누는 중첩 Flexbox */
+
+.hero {
+  background-color:#e8e3da;
 }
-
-.slide {
-  position: relative;
-  width: 100%;
-  height: 100%;
+.hero-con {
+  align-items:center;
 }
-
-/* 배너 영역을 이미지로 채우기 */
-.slide-img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
+.hero-copy {
+  width:360px;
+  padding:20px;
 }
-
-/* 왼쪽 하단 문구 */
-.slide-text {
-  position: absolute;
-  left: 40px;
-  bottom: 80px;
-  color: #fff;
+.hero-label {
+  font-size:11px;
+  color:#65615a;
+  margin:0 0 28px;
 }
-
-.slide-text h2 {
-  font-size: 36px;
-  font-weight: 500;
+.hero-copy h2 {
+  font-size:48px;
+  font-weight:500;
 }
-
-.slide-text p {
-  margin-top: 16px;
-  font-size: 16px;
+.hero-copy p {
+  font-size:15px;
+  margin:28px 0 36px;
 }
-
-
+.hero-image {
+  width:1000px;
+}
+.hero-link {
+  width:260px;
+  height:48px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  background-color:#ffffff;
+  font-size:13px;
+}
+.hero-link:hover {
+  color:#00a1df;
+}
