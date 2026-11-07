@@ -153,22 +153,25 @@ img {
 /* BBC-03 시작 — 추천 상품 카드 */
 .product-section {
   padding: 128px 0;
-  background-color: #fdfbf7;
+}
+
+.product-section h2 {
+  margin: 0 0 40px;
+  padding: 0 24px;
+  text-align: center;
+  font-size: 28px;
+  font-weight: 500;
 }
 
 .product-cards {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  margin: 0;
-  padding: 0;
-  list-style: none;
+  display: flex;
 }
 
 .product-card {
+  width: 33.333333%;
   box-sizing: border-box;
   padding: 40px 24px;
   border-right: 1px solid #e5e2de;
-  color: #333;
   text-align: center;
 }
 
@@ -176,38 +179,18 @@ img {
   border-right: 0;
 }
 
-.product-card h2 {
-  margin: 0;
+.product-card h3 {
+  margin: 24px 0 0;
   font-size: 20px;
   font-weight: 500;
-  line-height: 1.5;
 }
 
 .product-card p {
-  min-height: 48px;
-  margin: 12px 0 24px;
-  font-size: 14px;
-  line-height: 1.7;
-  word-break: keep-all;
+  margin: 12px 0 0;
 }
 
 .product-card img {
-  display: block;
   width: 100%;
-  height: auto;
-  aspect-ratio: 1 / 1;
-  object-fit: cover;
-}
-
-/* 태블릿 */
-@media screen and (min-width: 750px) and (max-width: 989px) {
-  .product-section {
-    padding: 80px 0;
-  }
-
-  .product-card {
-    padding: 40px 10px;
-  }
 }
 
 /* BBC-03 끝 */
