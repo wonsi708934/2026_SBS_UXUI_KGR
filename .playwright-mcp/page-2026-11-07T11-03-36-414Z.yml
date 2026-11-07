@@ -1,0 +1,26 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]: 원두 및 커피 최대 10% 할인 번들 구매 혜택
+    - generic [ref=e4]:
+      - navigation [ref=e5]:
+        - list [ref=e6]:
+          - listitem [ref=e7]: 쇼핑
+          - listitem [ref=e8]: 베스트셀러
+          - listitem [ref=e9]: 카페
+          - listitem [ref=e10]: 블로그
+      - heading [level=1] [ref=e11]:
+        - img "BLUE BOTTLE COFFEE" [ref=e12]
+      - generic [ref=e14]:
+        - img "검색 아이콘" [ref=e15]
+        - img "회원 아이콘" [ref=e16]
+        - img "장바구니 아이콘" [ref=e17]
+  - main [ref=e18]:
+    - generic [ref=e21]:
+      - generic [ref=e22]:
+        - generic [ref=e23]: BLUE BOTTLE COFFEE
+        - heading "시그니처" [level=2] [ref=e24]
+        - heading "블렌드" [level=2] [ref=e25]
+        - paragraph [ref=e26]: 블루보틀을 대표하는 원두를 만나보세요.
+        - link "자세히 보기" [ref=e27] [cursor=pointer]:
+          - /url: ../../02_전체통합/index.html#BBC-04
+      - img "푸른 원두 봉투와 커피, 시그니처 블렌드" [ref=e28]
