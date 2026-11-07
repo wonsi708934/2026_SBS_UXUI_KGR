@@ -1,18 +1,18 @@
 @font-face {
   font-family: 'Pretendard';
-  src: url('../font/Pretendard-Regular.woff2') format('woff2');
+  src: url('../1코딩/모나미/font/Pretendard-Regular.woff2') format('woff2');
   font-weight: 400;
   font-display: swap;
 }
 @font-face {
   font-family: 'Pretendard';
-  src: url('../font/Pretendard-Medium.woff2') format('woff2');
+  src: url('../1코딩/모나미/font/Pretendard-Medium.woff2') format('woff2');
   font-weight: 500;
   font-display: swap;
 }
 @font-face {
   font-family: 'Pretendard';
-  src: url('../font/Pretendard-Bold.woff2') format('woff2');
+  src: url('../1코딩/모나미/font/Pretendard-Bold.woff2') format('woff2');
   font-weight: 700;
   font-display: swap;
 }
@@ -36,14 +36,6 @@ a {
   color: inherit;
   text-decoration: none;
 }
-button {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  background-color: transparent;
-  color: inherit;
-  font-family: 'Pretendard', sans-serif;
-}
 img {
   display: block;
   background-color: transparent;
@@ -63,48 +55,48 @@ img {
 /* BBC-01 시작 — 상단: 모나미 topbar-con의 양끝 정렬과 로고·메뉴·아이콘 묶음 */
 
 .announcement {
-  height:28px;
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  font-size:11px;
-  background-color:#ffffff;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 11px;
+  background-color: #ffffff;
 }
 .header-con {
-  height:88px;
-  align-items:center;
-  justify-content:space-between;
+  height: 88px;
+  align-items: center;
+  justify-content: space-between;
 }
 .main-nav {
-  width:520px;
+  width: 520px;
 }
 .main-nav > ul {
-  display:flex;
-  gap:32px;
+  display: flex;
+  gap: 32px;
 }
 .main-nav > ul > li {
-  font-size:14px;
+  font-size: 14px;
 }
-.main-nav > ul > li > a:hover {
-  color:#00a1df;
+.logo-box > a {
+  display: block;
 }
 .logo-box img {
-  width:25px;
-  height:62px;
+  width: 25px;
+  height: 62px;
 }
 .header-util {
-  width:520px;
-  display:flex;
+  width: 520px;
+  display: flex;
 }
 .header-icons {
-  margin-left:auto;
-  display:flex;
-  gap:24px;
-  align-items:center;
+  margin-left: auto;
+  display: flex;
+  gap: 24px;
+  align-items: center;
 }
 .header-icons img {
-  width:24px;
-  height:24px;
+  width: 24px;
+  height: 24px;
 }
 
 /* BBC-01 끝 */
@@ -112,85 +104,102 @@ img {
 /* BBC-02 시작 — 메인비주얼: 사진과 문구를 가로로 나누는 중첩 Flexbox */
 
 .hero {
-  background-color:#e8e3da;
+  background-color: #e8e3da;
 }
 .hero-con {
-  align-items:center;
+  align-items: center;
 }
 .hero-copy {
-  width:360px;
-  padding:20px;
+  width: 360px;
+  padding: 20px;
 }
 .hero-label {
-  font-size:11px;
-  color:#65615a;
-  margin:0 0 28px;
+  font-size: 11px;
+  color: #65615a;
+  margin: 0 0 28px;
 }
 .hero-copy h2 {
-  font-size:48px;
-  font-weight:500;
+  font-size: 48px;
+  font-weight: 500;
 }
 .hero-copy p {
-  font-size:15px;
-  margin:28px 0 36px;
+  font-size: 15px;
+  margin: 28px 0 36px;
 }
 .hero-image {
-  width:1000px;
+  width: 1000px;
+  height: auto;
 }
 .hero-link {
-  width:260px;
-  height:48px;
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  background-color:#ffffff;
-  font-size:13px;
+  width: 260px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  font-size: 13px;
 }
 .hero-link:hover {
-  color:#00a1df;
+  color: #00a1df;
 }
 
-/* BBC-03 시작 — 추천 상품 카드 */
-.product-section {
-  padding: 128px 0;
+/* BBC-02 끝 */
+
+/* BBC-03 시작 — 추천 상품: 제목, 설명, 이미지 순서의 3열 카드 */
+.collection {
+  padding: 80px 0;
 }
 
-.product-section h2 {
-  margin: 0 0 40px;
+.collection-con {
+  display: block;
+  width: 100%;
+  padding: 0;
+}
+
+.collection-heading {
+  margin: 0 0 48px;
   padding: 0 24px;
   text-align: center;
-  font-size: 28px;
+}
+
+.collection-heading h2 {
+  font-size: 26px;
   font-weight: 500;
 }
 
-.product-cards {
+.collection-row {
   display: flex;
 }
 
-.product-card {
+.collection-card {
   width: 33.333333%;
+  min-width: 0;
   box-sizing: border-box;
-  padding: 40px 24px;
+  padding: 48px 24px 32px;
   border-right: 1px solid #e5e2de;
   text-align: center;
 }
 
-.product-card:last-child {
+.collection-card:last-child {
   border-right: 0;
 }
 
-.product-card h3 {
-  margin: 24px 0 0;
+.collection-card img {
+  width: 100%;
+  height: auto;
+  margin: 28px auto 0;
+}
+
+.collection-card h3 {
   font-size: 20px;
+  line-height: 1.5;
   font-weight: 500;
 }
 
-.product-card p {
-  margin: 12px 0 0;
-}
-
-.product-card img {
-  width: 100%;
+.collection-card p {
+  margin: 16px 0 0;
+  font-size: 14px;
+  line-height: 1.6;
 }
 
 /* BBC-03 끝 */

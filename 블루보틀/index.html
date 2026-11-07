@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ko">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>블루보틀 코리아</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>블루보틀 코리아</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
- <header id="BBC-01">
+  <header id="BBC-01">
     <div class="announcement">원두 및 커피 최대 10% 할인 번들 구매 혜택</div>
     <div class="con header-con">
       <nav class="main-nav">
@@ -18,7 +18,7 @@
           <li>블로그</li>
         </ul>
       </nav>
-      <h1 class="logo-box"><img src="/블루보틀/이미지/bluebottle-logo.svg" alt="BLUE BOTTLE COFFEE"></h1>
+      <h1 class="logo-box"><a href="#BBC-02"><img src="/블루보틀/이미지/bluebottle-logo.svg" alt="BLUE BOTTLE COFFEE"></a></h1>
       <div class="header-util">
         <div class="header-icons">
           <img src="/블루보틀/아이콘/search.svg" alt="검색 아이콘">
@@ -37,46 +37,38 @@
             <h2>시그니처</h2>
             <h2>블렌드</h2>
             <p>블루보틀을 대표하는 원두를 만나보세요.</p>
-            <a class="hero-link" href="../../02_전체통합/index.html#BBC-04">자세히 보기</a>
+            <a class="hero-link" href="#BBC-03">자세히 보기</a>
           </div>
           <img class="hero-image" src="/블루보틀/이미지/slide-signature-blend-pc.jpg" alt="푸른 원두 봉투와 커피, 시그니처 블렌드">
         </div>
       </div>
     </div>
-    <section id="BBC-03" class="product-section" aria-labelledby="collection-title">
-      <h2 id="collection-title">추천 상품</h2>
-      <ul class="product-cards">
-        <li class="product-card">
-          <img
-            src="./이미지/윈터-블렌드.png"
-            alt="윈터 블렌드 원두 패키지"
-            loading="lazy"
-          >
-          <h3>윈터 블렌드</h3>
-          <p>추운 계절을 밝혀주는 포근한 블렌드</p>
-        </li>
+    <div id="BBC-03">
+      <div class="collection">
+        <div class="con collection-con">
+          <div class="collection-heading"><h2 id="collection-title">추천 상품</h2></div>
+          <div class="collection-row">
+            <div class="collection-card">
+              <h3>윈터 블렌드</h3>
+              <p>추운 계절을 밝혀주는 포근한 블렌드</p>
+              <img src="./이미지/윈터-블렌드.png" alt="윈터 블렌드 원두 패키지" loading="lazy">
+            </div>
 
-        <li class="product-card">
-          <img
-            src="./이미지/홀리데이-머그.png"
-            alt="홀리데이 머그"
-            loading="lazy"
-          >
-          <h3>홀리데이 머그</h3>
-          <p>마츠 그린 컬러가 더해진 시즌 머그</p>
-        </li>
+            <div class="collection-card">
+              <h3>홀리데이 머그</h3>
+              <p>마츠 그린 컬러가 더해진 시즌 머그</p>
+              <img src="./이미지/홀리데이-머그.png" alt="홀리데이 머그" loading="lazy">
+            </div>
 
-        <li class="product-card">
-          <img
-            src="./이미지/카터-무브-머그.png"
-            alt="카터 무브 머그 텀블러"
-            loading="lazy"
-          >
-          <h3>카터 무브 머그</h3>
-          <p>겨울빛을 머금은 스모크 그린 텀블러</p>
-        </li>
-      </ul>
-    </section>
+            <div class="collection-card">
+              <h3>카터 무브 머그</h3>
+              <p>겨울빛을 머금은 스모크 그린 텀블러</p>
+              <img src="./이미지/카터-무브-머그.png" alt="카터 무브 머그 텀블러" loading="lazy">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </main>
 </body>
 </html>

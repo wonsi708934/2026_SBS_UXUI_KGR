@@ -1,0 +1,511 @@
+/* ============================================================
+   공통 코드: 1코딩/모나미/index.html · style.css 기준
+   모나미에 등장한 CSS 속성만 사용합니다.
+   세로 배치는 기본 블록 흐름, 가로 배치는 display:flex로 구성합니다.
+   글꼴·이미지는 같은 정답 폴더의 로컬 파일을 참조합니다.
+============================================================ */
+@font-face {
+  font-family: 'Pretendard';
+  src: url('../font/Pretendard-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Pretendard';
+  src: url('../font/Pretendard-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Pretendard';
+  src: url('../font/Pretendard-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-display: swap;
+}
+body {
+  font-family: 'Pretendard', sans-serif;
+  font-size: 14px;
+  color: #333333;
+  background-color: #fdfbf7;
+}
+body, ul, li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+  font-weight: normal;
+  font-size: inherit;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+button {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-color: transparent;
+  color: inherit;
+  font-family: 'Pretendard', sans-serif;
+}
+img {
+  display: block;
+  background-color: transparent;
+}
+/* 모나미의 .con: 콘텐츠 너비와 가운데 배치, 기본 가로 배치를 담당합니다.
+   내용 1400px + 좌우 padding 각 20px = 바깥 너비 1440px입니다.
+   원본과 정답은 1600px PC 화면에서 비교합니다. */
+.con {
+  width: 1400px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+}
+
+/* BBC-01 시작 — 상단: 모나미 topbar-con의 양끝 정렬과 로고·메뉴·아이콘 묶음 */
+
+.announcement {
+  height:28px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-size:11px;
+  background-color:#ffffff;
+}
+.header-con {
+  height:88px;
+  align-items:center;
+  justify-content:space-between;
+}
+.main-nav {
+  width:520px;
+}
+.main-nav > ul {
+  display:flex;
+  gap:32px;
+}
+.main-nav > ul > li {
+  font-size:14px;
+}
+.main-nav > ul > li > a:hover {
+  color:#00a1df;
+}
+.logo-box img {
+  width:25px;
+  height:62px;
+}
+.header-util {
+  width:520px;
+  display:flex;
+}
+.header-icons {
+  margin-left:auto;
+  display:flex;
+  gap:24px;
+  align-items:center;
+}
+.header-icons img {
+  width:24px;
+  height:24px;
+}
+
+/* BBC-01 끝 */
+
+/* BBC-02 시작 — 메인비주얼: 사진과 문구를 가로로 나누는 중첩 Flexbox */
+
+.hero {
+  background-color:#e8e3da;
+}
+.hero-con {
+  align-items:center;
+}
+.hero-copy {
+  width:360px;
+  padding:20px;
+}
+.hero-label {
+  font-size:11px;
+  color:#65615a;
+  margin:0 0 28px;
+}
+.hero-copy h2 {
+  font-size:48px;
+  font-weight:500;
+}
+.hero-copy p {
+  font-size:15px;
+  margin:28px 0 36px;
+}
+.hero-image {
+  width:1000px;
+}
+.hero-link {
+  width:260px;
+  height:48px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  background-color:#ffffff;
+  font-size:13px;
+}
+.hero-link:hover {
+  color:#00a1df;
+}
+
+/* BBC-02 끝 */
+
+/* BBC-03 시작 — 새로운컬렉션: 같은 너비의 이미지 카드 3개와 제목·설명의 기본 블록 배치 */
+
+.collection {
+  padding:72px 0;
+}
+.collection-con {
+  display:block;
+}
+.collection-heading {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  margin:0 0 28px;
+}
+.collection-heading h2 {
+  font-size:26px;
+  font-weight:500;
+}
+.collection-heading span {
+  font-size:11px;
+  color:#777777;
+}
+/* 450px × 3장 + 간격 25px × 2곳 = 1400px입니다. */
+.collection-row {
+  display:flex;
+  gap:25px;
+}
+.collection-card {
+  width:450px;
+}
+.collection-card img {
+  width:450px;
+}
+.collection-card h3 {
+  font-size:19px;
+  margin:22px 0 9px;
+}
+.collection-card p {
+  font-size:13px;
+  color:#777777;
+}
+
+/* BBC-03 끝 */
+
+/* BBC-04 시작 — 인기상품: 반복되는 카드 구조와 4칸 너비·간격 계산 */
+
+.popular {
+  padding:0 0 80px;
+}
+.popular-con {
+  display:block;
+}
+.popular-heading {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  margin:0 0 28px;
+}
+.popular-heading h2 {
+  font-size:26px;
+  font-weight:500;
+}
+.popular-heading a {
+  font-size:12px;
+  border-bottom:1px solid #777777;
+}
+/* 335px × 4장 + 간격 20px × 3곳 = 1400px입니다. */
+.popular-row {
+  display:flex;
+  gap:20px;
+}
+.popular-card {
+  width:335px;
+}
+.popular-card img {
+  width:335px;
+  background-color:#f3f1ed;
+}
+.popular-category {
+  font-size:11px;
+  color:#777777;
+  margin:18px 0 8px;
+}
+.popular-card h3 {
+  font-size:15px;
+}
+
+/* BBC-04 끝 */
+
+/* BBC-05 시작 — 하사미머그소개: 840px 사진과 560px 설명 칸의 가로 배치 */
+
+.hasami {
+  padding:0 0 80px;
+}
+.hasami-con {
+  align-items:center;
+}
+.hasami-image {
+  width:840px;
+}
+.hasami-copy {
+  width:440px;
+  padding:40px 60px;
+  background-color:#f0ece5;
+}
+.hasami-copy span {
+  font-size:10px;
+  color:#777777;
+}
+.hasami-copy h2 {
+  font-size:34px;
+  margin:8px 0;
+}
+.hasami-copy p {
+  font-size:14px;
+  margin:8px 0;
+}
+.hasami-copy a {
+  display:block;
+  font-size:13px;
+  margin:30px 0 0;
+}
+
+/* BBC-05 끝 */
+
+/* BBC-06 시작 — 푸어오버키트: 위쪽 2칸 배치와 아래쪽 3칸 배치를 구분하는 부모·자식 구조 */
+
+.kit {
+  padding:0 0 80px;
+}
+.kit-con {
+  display:block;
+}
+.kit-top {
+  display:flex;
+  align-items:center;
+  background-color:#f1eee8;
+}
+.kit-copy {
+  width:440px;
+  padding:40px 60px;
+}
+.kit-copy span {
+  font-size:12px;
+  color:#777777;
+}
+.kit-copy h2 {
+  font-size:34px;
+  margin:8px 0;
+}
+.kit-copy p {
+  font-size:14px;
+  margin:24px 0;
+}
+.kit-copy a {
+  font-size:13px;
+}
+.kit-photo {
+  width:840px;
+}
+.kit-row {
+  display:flex;
+  gap:25px;
+  margin:30px 0 0;
+}
+.kit-card {
+  width:450px;
+}
+.kit-card img {
+  width:450px;
+  background-color:#f4f1eb;
+}
+.kit-card h3 {
+  font-size:18px;
+  margin:18px 0 8px;
+}
+.kit-card p {
+  font-size:13px;
+  color:#777777;
+}
+
+/* BBC-06 끝 */
+
+/* BBC-07 시작 — 선물세트: 설명 칸 안에서 제목·소개 묶음을 반복하는 기본 블록 흐름 */
+
+.gift {
+  padding:0 0 80px;
+}
+.gift-con {
+  display:block;
+}
+.gift-heading {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  margin:0 0 28px;
+}
+.gift-heading h2 {
+  font-size:26px;
+  font-weight:500;
+}
+.gift-heading span {
+  font-size:11px;
+  color:#777777;
+}
+.gift-top {
+  display:flex;
+  align-items:center;
+  background-color:#f1eee8;
+}
+.gift-photo {
+  width:800px;
+}
+.gift-copy {
+  width:480px;
+  padding:36px 60px;
+}
+.gift-copy > h3 {
+  font-size:28px;
+  margin:5px 0;
+}
+.gift-item {
+  margin:26px 0;
+}
+.gift-item h3 {
+  font-size:16px;
+  margin:0 0 8px;
+}
+.gift-item p {
+  font-size:13px;
+  color:#777777;
+}
+.gift-copy > a {
+  display:block;
+  margin:30px 0 0;
+  font-size:13px;
+}
+
+/* BBC-07 끝 */
+
+/* BBC-08 시작 — 카페안내: 원본 비율을 유지하는 가로 사진과 같은 너비의 3칸 카드 */
+
+.cafes {
+  padding:0 0 88px;
+}
+.cafe-con {
+  display:block;
+}
+.cafe-heading {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  margin:0 0 28px;
+}
+.cafe-heading h2 {
+  font-size:26px;
+  font-weight:500;
+}
+.cafe-heading span {
+  font-size:11px;
+  color:#777777;
+}
+.cafe-row {
+  display:flex;
+  gap:25px;
+}
+.cafe-card {
+  width:450px;
+}
+.cafe-card img {
+  width:450px;
+}
+.cafe-card h3 {
+  font-size:18px;
+  margin:18px 0;
+}
+.cafe-card a {
+  font-size:12px;
+  border-bottom:1px solid #777777;
+}
+
+/* BBC-08 끝 */
+
+/* BBC-09 시작 — 푸터: 메뉴 3개 묶음과 안내 칸, 회사 정보의 위아래 구분 */
+
+.site-footer {
+  background-color:#333333;
+  color:#ffffff;
+  padding:60px 0 36px;
+}
+.footer-con {
+  display:block;
+}
+.footer-top {
+  display:flex;
+  gap:40px;
+  padding:0 0 44px;
+  border-bottom:1px solid #666666;
+}
+.footer-group {
+  width:220px;
+}
+.footer-group h2 {
+  font-size:16px;
+  margin:0 0 24px;
+}
+.footer-group p {
+  font-size:12px;
+  color:#dddddd;
+  margin:0 0 14px;
+}
+.footer-news {
+  width:600px;
+}
+.footer-news h2 {
+  font-size:20px;
+  margin:0 0 18px;
+}
+.footer-news > p {
+  font-size:13px;
+  color:#dddddd;
+}
+.footer-news > a {
+  display:block;
+  width:340px;
+  border-bottom:1px solid #999999;
+  padding:20px 0 12px;
+  font-size:13px;
+}
+.footer-social {
+  display:flex;
+  gap:24px;
+  font-size:12px;
+  margin:24px 0 0;
+}
+.footer-bottom {
+  margin:30px 0 0;
+}
+.footer-bottom > p {
+  color:#cccccc;
+  font-size:11px;
+  margin:8px 0;
+}
+.footer-policies {
+  display:flex;
+  gap:24px;
+  font-size:11px;
+  margin:24px 0;
+}
+
+/* BBC-09 끝 */
