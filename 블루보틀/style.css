@@ -203,3 +203,40 @@ img {
 }
 
 /* BBC-03 끝 */
+
+/* BBC-04 시작 — 홀리데이 배너 */
+.banner__media {
+  width: 100%;
+}
+
+.banner__media img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.banner {
+  position: relative;
+}
+
+.banner__text {
+  position: absolute;
+  top: 40px;
+  left: 40px;
+  color: #ffffff;
+  text-align: left;
+}
+
+.banner__title {
+  margin: 0 0 24px;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 1.4;
+}
+
+.banner__text p {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.9;
+}
+/* BBC-04 끝 */
