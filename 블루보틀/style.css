@@ -228,12 +228,9 @@ img {
 }
 /* BBC-04 끝 */
 
-.section-template--18154420338941__bbck_image_text_Rgn6zJ.color-scheme-1 {
+.kit {
   background: #fdfbf7;
   color: #333;
-}
-
-.section-template--18154420338941__bbck_image_text_Rgn6zJ-padding {
   padding-block: 128px;
 }
 
@@ -259,6 +256,13 @@ img {
   object-fit: cover;
 }
 
+.pour-over-kit__label {
+  display: block;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 1.4;
+}
+
 .pour-over-kit__content h2 {
   margin: 0 0 32px;
   font-size: 24px;
@@ -269,10 +273,9 @@ img {
 .pour-over-kit__features {
   margin: 0;
   padding: 0;
-  list-style: none;
 }
 
-.pour-over-kit__features li + li {
+.pour-over-kit__feature + .pour-over-kit__feature {
   margin-top: 32px;
 }
 
