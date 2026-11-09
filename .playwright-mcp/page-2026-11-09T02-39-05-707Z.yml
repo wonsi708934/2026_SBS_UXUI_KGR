@@ -1,0 +1,48 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]: 원두 및 커피 최대 10% 할인 번들 구매 혜택
+    - generic [ref=e4]:
+      - navigation [ref=e5]:
+        - list [ref=e6]:
+          - listitem [ref=e7]: 쇼핑
+          - listitem [ref=e8]: 베스트셀러
+          - listitem [ref=e9]: 카페
+          - listitem [ref=e10]: 블로그
+      - heading [level=1] [ref=e11]:
+        - link [ref=e12] [cursor=pointer]:
+          - /url: "#BBC-02"
+          - img "BLUE BOTTLE COFFEE" [ref=e13]
+      - generic [ref=e15]:
+        - img "검색 아이콘" [ref=e16]
+        - img "회원 아이콘" [ref=e17]
+        - img "장바구니 아이콘" [ref=e18]
+  - main [ref=e19]:
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - generic [ref=e24]: BLUE BOTTLE COFFEE
+        - heading "시그니처" [level=2] [ref=e25]
+        - heading "블렌드" [level=2] [ref=e26]
+        - paragraph [ref=e27]: 블루보틀을 대표하는 원두를 만나보세요.
+        - link "자세히 보기" [ref=e28] [cursor=pointer]:
+          - /url: "#BBC-03"
+      - img "푸른 원두 봉투와 커피, 시그니처 블렌드" [ref=e29]
+    - generic [ref=e32]:
+      - heading "추천 상품" [level=2] [ref=e34]
+      - generic [ref=e35]:
+        - generic [ref=e36]:
+          - heading "윈터 블렌드" [level=3] [ref=e37]
+          - paragraph [ref=e38]: 추운 계절을 밝혀주는 포근한 블렌드
+          - img "윈터 블렌드 원두 패키지"
+        - generic [ref=e39]:
+          - heading "홀리데이 머그" [level=3] [ref=e40]
+          - paragraph [ref=e41]: 마츠 그린 컬러가 더해진 시즌 머그
+          - img "홀리데이 머그"
+        - generic [ref=e42]:
+          - heading "카터 무브 머그" [level=3] [ref=e43]
+          - paragraph [ref=e44]: 겨울빛을 머금은 스모크 그린 텀블러
+          - img "카터 무브 머그 텀블러"
+    - generic [ref=e46]:
+      - img "블루보틀 홀리데이 선물 컬렉션" [ref=e48]
+      - generic [ref=e49]:
+        - heading "RITUALS OF WELCOME" [level=2] [ref=e50]
+        - paragraph [ref=e51]: 홀리데이 시즌을 맞아 블루보틀과 함께 소중한 선물을 준비해보세요

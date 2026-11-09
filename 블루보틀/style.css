@@ -40,9 +40,7 @@ img {
   display: block;
   background-color: transparent;
 }
-/* 모나미의 .con: 콘텐츠 너비와 가운데 배치, 기본 가로 배치를 담당합니다.
-   내용 1400px + 좌우 padding 각 20px = 바깥 너비 1440px입니다.
-   원본과 정답은 1600px PC 화면에서 비교합니다. */
+
 .con {
   width: 1400px;
   padding-left: 20px;
@@ -51,8 +49,6 @@ img {
   margin-right: auto;
   display: flex;
 }
-
-/* BBC-01 시작 — 상단: 모나미 topbar-con의 양끝 정렬과 로고·메뉴·아이콘 묶음 */
 
 .announcement {
   height: 28px;
@@ -99,10 +95,6 @@ img {
   height: 24px;
 }
 
-/* BBC-01 끝 */
-
-/* BBC-02 시작 — 메인비주얼: 사진과 문구를 가로로 나누는 중첩 Flexbox */
-
 .hero {
   background-color: #e8e3da;
 }
@@ -143,9 +135,6 @@ img {
   color: #00a1df;
 }
 
-/* BBC-02 끝 */
-
-/* BBC-03 시작 — 추천 상품: 제목, 설명, 이미지 순서의 3열 카드 */
 .collection {
   padding: 80px 0;
 }
@@ -202,8 +191,6 @@ img {
   line-height: 1.6;
 }
 
-/* BBC-03 끝 */
-
 /* BBC-04 시작 — 홀리데이 배너 */
 .banner__media {
   width: 100%;
@@ -240,3 +227,79 @@ img {
   line-height: 1.9;
 }
 /* BBC-04 끝 */
+
+.section-template--18154420338941__bbck_image_text_Rgn6zJ.color-scheme-1 {
+  background: #fdfbf7;
+  color: #333;
+}
+
+.section-template--18154420338941__bbck_image_text_Rgn6zJ-padding {
+  padding-block: 128px;
+}
+
+.pour-over-kit {
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: minmax(0, 1.575fr) minmax(0, 1fr);
+  align-items: center;
+  gap: 108px;
+  max-width: 1440px;
+  margin-inline: auto;
+  padding-inline: clamp(20px, 8.85vw, 112px);
+}
+
+.pour-over-kit__media,
+.pour-over-kit__media img {
+  display: block;
+  width: 100%;
+  height: 648px;
+}
+
+.pour-over-kit__media img {
+  object-fit: cover;
+}
+
+.pour-over-kit__content h2 {
+  margin: 0 0 32px;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 1.4;
+}
+
+.pour-over-kit__features {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.pour-over-kit__features li + li {
+  margin-top: 32px;
+}
+
+.pour-over-kit__features h3 {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.pour-over-kit__features p {
+  margin: 16px 0 0;
+  font-size: 16px;
+  line-height: 1.4;
+}
+
+.pour-over-kit__button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  width: min(296px, 100%);
+  height: 50px;
+  margin-top: 56px;
+  background: #fff;
+  color: #333;
+  font-size: 14px;
+  font-weight: 500;
+  text-decoration: none;
+}

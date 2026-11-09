@@ -1,0 +1,13 @@
+[ 3307061ms] [LOG] {effect: slide, spaceBetween: 20} @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:0
+[ 3307297ms] [LOG] bootstap @ https://cdn.shopify.com/extensions/01a1ac05-1cb1-7a7e-a63c-8fdf8c5dad8b/gift-box-builder-1-514/assets/easy-bundle-min.js:0
+[ 3307353ms] [WARNING] In a sandboxed environment, addEventListener may not behave as expected. @ https://kr.bluebottlecoffee.com/cdn/wpm/s43600932w1bbca933p2f8a9c65m024fd2f2m.js:0
+[ 3307392ms] [LOG] ChannelIO script loaded with plugin key: 4a7023e0-203e-430b-bd7e-cf76617bfc5d @ https://kr.bluebottlecoffee.com/products/blue-bottle-pour-over-kit:5295
+[ 3307411ms] [WARNING] In a sandboxed environment, addEventListener may not behave as expected. @ https://kr.bluebottlecoffee.com/cdn/wpm/s43600932w1bbca933p2f8a9c65m024fd2f2m.js:0
+[ 3307412ms] [INFO] start view_item @ https://kr.bluebottlecoffee.com/web-pixels@43600932w1bbca933p2f8a9c65m024fd2f2/custom/web-pixel-36733181@2/sandbox/modern/products/blue-bottle-pour-over-kit:38
+[ 3307413ms] [INFO] start view_item @ https://kr.bluebottlecoffee.com/web-pixels@43600932w1bbca933p2f8a9c65m024fd2f2/custom/web-pixel-38568189@25/sandbox/modern/products/blue-bottle-pour-over-kit:37
+[ 3308915ms] [INFO] pageView @ https://kr.bluebottlecoffee.com/web-pixels@43600932w1bbca933p2f8a9c65m024fd2f2/custom/web-pixel-36733181@2/sandbox/modern/products/blue-bottle-pour-over-kit:24
+[ 3308920ms] [WARNING] [Notice] The ViewContent format will be deprecated — use a "products" array with objects instead of a single "id".
+See the updated usage guide:https://kakaobusiness.gitbook.io/main/tool/pixel-sdk @ https://t1.daumcdn.net/kas/static/kp.js:1
+[ 3308921ms] [INFO] product_viewed 222421 @ https://kr.bluebottlecoffee.com/web-pixels@43600932w1bbca933p2f8a9c65m024fd2f2/custom/web-pixel-36733181@2/sandbox/modern/products/blue-bottle-pour-over-kit:45
+[ 3308923ms] [INFO] pageView naver @ https://kr.bluebottlecoffee.com/web-pixels@43600932w1bbca933p2f8a9c65m024fd2f2/custom/web-pixel-38568189@25/sandbox/modern/products/blue-bottle-pour-over-kit:32
+[ 3308925ms] [LOG] {type: view_product, items: Array(1)} view_product @ https://kr.bluebottlecoffee.com/web-pixels@43600932w1bbca933p2f8a9c65m024fd2f2/custom/web-pixel-38568189@25/sandbox/modern/products/blue-bottle-pour-over-kit:49
