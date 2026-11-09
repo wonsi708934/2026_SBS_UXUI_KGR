@@ -229,45 +229,42 @@ img {
 /* BBC-04 끝 */
 
 .kit {
-  background: #fdfbf7;
+  background-color: #fdfbf7;
   color: #333;
-  padding-block: 128px;
+  padding: 128px 0;
 }
 
 .pour-over-kit {
-  box-sizing: border-box;
-  display: grid;
-  grid-template-columns: minmax(0, 1.575fr) minmax(0, 1fr);
+  display: flex;
   align-items: center;
   gap: 108px;
-  max-width: 1440px;
-  margin-inline: auto;
-  padding-inline: clamp(20px, 8.85vw, 112px);
+  width: 1216px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 112px;
+  padding-right: 112px;
 }
 
 .pour-over-kit__media,
 .pour-over-kit__media img {
   display: block;
-  width: 100%;
-  height: 648px;
+  width: 678px;
 }
 
-.pour-over-kit__media img {
-  object-fit: cover;
+.pour-over-kit__content {
+  width: 430px;
 }
 
 .pour-over-kit__label {
   display: block;
   font-size: 24px;
   font-weight: 400;
-  line-height: 1.4;
 }
 
 .pour-over-kit__content h2 {
   margin: 0 0 32px;
   font-size: 24px;
   font-weight: 400;
-  line-height: 1.4;
 }
 
 .pour-over-kit__features {
@@ -275,32 +272,29 @@ img {
   padding: 0;
 }
 
-.pour-over-kit__feature + .pour-over-kit__feature {
-  margin-top: 32px;
+.pour-over-kit__feature {
+  margin: 0 0 32px;
 }
 
 .pour-over-kit__features h3 {
   margin: 0;
   font-size: 14px;
   font-weight: 500;
-  line-height: 1.4;
 }
 
 .pour-over-kit__features p {
   margin: 16px 0 0;
   font-size: 16px;
-  line-height: 1.4;
 }
 
 .pour-over-kit__button {
   display: flex;
   align-items: center;
   justify-content: center;
-  box-sizing: border-box;
-  width: min(296px, 100%);
+  width: 296px;
   height: 50px;
-  margin-top: 56px;
-  background: #fff;
+  margin: 24px 0 0;
+  background-color: #fff;
   color: #333;
   font-size: 14px;
   font-weight: 500;
