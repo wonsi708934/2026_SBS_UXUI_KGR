@@ -1,0 +1,77 @@
+2026-11-12(목) 과제
+
+문제 1. 
+가로 레이아웃을 세로 레이아웃으로 변경하기
+3개의 박스가 가로로 배치되어 있습니다. Flex 속성을 사용하여 박스가 세로 방향으로 배치되도록 빈칸을 채워주세요.
+
+[html]
+<div class="container">
+  <div class="box">1</div>
+  <div class="box">2</div>
+  <div class="box">3</div>
+</div>
+
+[css]
+.container {
+  display: flex;
+  flex-direction: ______;
+  gap: 10px;
+}
+
+.box {
+  width: 60px;
+  height: 50px;
+  background-color: cornflowerblue;
+}
+
+----------------------------------------------
+문제2.박스를 가로 중앙에 정렬하기
+왼쪽에 배치된 3개의 박스를 Flex 속성을 사용하여 가로 중앙에 배치되도록 빈칸을 채워주세요.
+
+[html]
+<div class="container">
+  <div class="box">1</div>
+  <div class="box">2</div>
+  <div class="box">3</div>
+</div>
+
+[css]
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: ______;
+  gap: 10px;
+}
+
+.box {
+  width: 60px;
+  height: 50px;
+  background-color: cornflowerblue;
+}
+
+------------------------------------------------
+문제3.박스를 세로 중앙에 정렬하기
+컨테이너의 위쪽에 배치된 3개의 박스를 Flex 속성을 사용하여 세로 중앙에 배치되도록 빈칸을 채워주세요.
+
+[html]
+<div class="container">
+  <div class="box">1</div>
+  <div class="box">2</div>
+  <div class="box">3</div>
+</div>
+
+[css]
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: ______;
+  height: 200px;
+  gap: 10px;
+  border: 1px solid gray;
+}
+
+.box {
+  width: 60px;
+  height: 50px;
+  background-color: cornflowerblue;
+}
