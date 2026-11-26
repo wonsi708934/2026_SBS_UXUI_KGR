@@ -1,0 +1,9 @@
+[      47ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:5501/%EB%B8%94%EB%A3%A8%EB%B3%B4%ED%8B%80/%EC%9D%B4%EB%AF%B8%EC%A7%80/bluebottle-logo.svg:1
+[      48ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:5501/%EB%B8%94%EB%A3%A8%EB%B3%B4%ED%8B%80/%EC%95%84%EC%9D%B4%EC%BD%98/search.svg:1
+[      50ms] [LOG] Live reload enabled. @ http://127.0.0.1:5501/1%EC%BD%94%EB%94%A9/%EB%B8%94%EB%A3%A8%EB%B3%B4%ED%8B%80/index.html:172
+[      51ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:5501/%EB%B8%94%EB%A3%A8%EB%B3%B4%ED%8B%80/%EC%95%84%EC%9D%B4%EC%BD%98/person.svg:1
+[      51ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:5501/%EB%B8%94%EB%A3%A8%EB%B3%B4%ED%8B%80/%EC%95%84%EC%9D%B4%EC%BD%98/cart.svg:1
+[     128ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:5501/%EB%B8%94%EB%A3%A8%EB%B3%B4%ED%8B%80/%EC%9D%B4%EB%AF%B8%EC%A7%80/slide-signature-blend-pc.jpg:1
+[     136ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:5501/1%EC%BD%94%EB%94%A9/1%EC%BD%94%EB%94%A9/%EB%AA%A8%EB%82%98%EB%AF%B8/font/Pretendard-Medium.woff2:1
+[     136ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:5501/1%EC%BD%94%EB%94%A9/1%EC%BD%94%EB%94%A9/%EB%AA%A8%EB%82%98%EB%AF%B8/font/Pretendard-Regular.woff2:1
+[     195ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:5501/favicon.ico:1

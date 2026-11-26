@@ -1,0 +1,82 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]: 원두 및 커피 최대 10% 할인 번들 구매 혜택
+    - generic [ref=e4]:
+      - navigation [ref=e5]:
+        - list [ref=e6]:
+          - listitem [ref=e7]: 쇼핑
+          - listitem [ref=e8]: 베스트셀러
+          - listitem [ref=e9]: 카페
+          - listitem [ref=e10]: 블로그
+      - heading [level=1] [ref=e11]:
+        - link [ref=e12] [cursor=pointer]:
+          - /url: "#BBC-02"
+          - img "BLUE BOTTLE COFFEE" [ref=e13]
+      - generic [ref=e15]:
+        - img "검색 아이콘" [ref=e16]
+        - img "회원 아이콘" [ref=e17]
+        - img "장바구니 아이콘" [ref=e18]
+  - main [ref=e19]:
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - generic [ref=e24]: BLUE BOTTLE COFFEE
+        - heading "시그니처" [level=2] [ref=e25]
+        - heading "블렌드" [level=2] [ref=e26]
+        - paragraph [ref=e27]: 블루보틀을 대표하는 원두를 만나보세요.
+        - link "자세히 보기" [ref=e28] [cursor=pointer]:
+          - /url: "#BBC-03"
+      - img "푸른 원두 봉투와 커피, 시그니처 블렌드" [ref=e29]
+    - generic [ref=e32]:
+      - heading "추천 상품" [level=2] [ref=e34]
+      - generic [ref=e35]:
+        - generic [ref=e36]:
+          - heading "윈터 블렌드" [level=3] [ref=e37]
+          - paragraph [ref=e38]: 추운 계절을 밝혀주는 포근한 블렌드
+          - img "윈터 블렌드 원두 패키지" [ref=e39]
+        - generic [ref=e40]:
+          - heading "홀리데이 머그" [level=3] [ref=e41]
+          - paragraph [ref=e42]: 마츠 그린 컬러가 더해진 시즌 머그
+          - img "홀리데이 머그" [ref=e43]
+        - generic [ref=e44]:
+          - heading "카터 무브 머그" [level=3] [ref=e45]
+          - paragraph [ref=e46]: 겨울빛을 머금은 스모크 그린 텀블러
+          - img "카터 무브 머그 텀블러" [ref=e47]
+    - generic [ref=e49]:
+      - img "블루보틀 홀리데이 선물 컬렉션" [ref=e51]
+      - generic [ref=e52]:
+        - heading "RITUALS OF WELCOME" [level=2] [ref=e53]
+        - paragraph [ref=e54]: 홀리데이 시즌을 맞아 블루보틀과 함께 소중한 선물을 준비해보세요
+    - generic [ref=e56]:
+      - img "블루보틀 푸어 오버 키트" [ref=e58]
+      - generic [ref=e59]:
+        - generic [ref=e60]: 온라인 스토어 단독
+        - heading "푸어 오버 키트를 만나보세요" [level=2] [ref=e61]
+        - generic [ref=e62]:
+          - generic [ref=e63]:
+            - heading "커피 드리퍼" [level=3] [ref=e64]
+            - paragraph [ref=e65]: 최상의 푸어 오버를 위해 탄생한 정교한 디자인과 기능
+          - generic [ref=e66]:
+            - heading "커피 카라페" [level=3] [ref=e67]
+            - paragraph [ref=e68]: 드리퍼와 함께 편리하게 사용할 수 있는 디자인과 사이즈
+          - generic [ref=e69]:
+            - heading "커피 필터" [level=3] [ref=e70]
+            - paragraph [ref=e71]: 블루보틀의 노하우를 담은 독창적 디자인의 필터
+        - link "푸어 오버 키트 보기" [ref=e72] [cursor=pointer]:
+          - /url: https://kr.bluebottlecoffee.com/
+    - generic [ref=e74]:
+      - generic [ref=e75]:
+        - heading "소중한 분들을 위한 선물 세트를 만나보세요" [level=2] [ref=e76]: 소중한 분들을 위한선물 세트를 만나보세요
+        - generic [ref=e77]:
+          - generic [ref=e78]:
+            - heading "브렉퍼스트 세트" [level=3] [ref=e79]
+            - paragraph [ref=e80]: 아침을 위한 테이블웨어 세트
+          - generic [ref=e81]:
+            - heading "앳 홈 클래식 세트" [level=3] [ref=e82]
+            - paragraph [ref=e83]: 매일의 커피 리추얼을 위한 세트
+          - generic [ref=e84]:
+            - heading "더블월 써모 글라스 세트" [level=3] [ref=e85]
+            - paragraph [ref=e86]: 아이스 음료를 위한 유리잔 세트
+        - link "선물 세트 보기" [ref=e87] [cursor=pointer]:
+          - /url: https://kr.bluebottlecoffee.com/collections/gift-set
+      - generic:
+        - img "블루보틀 선물 세트"

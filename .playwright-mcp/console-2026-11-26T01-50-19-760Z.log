@@ -1,0 +1,348 @@
+[      28ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[      29ms] [LOG] Live reload enabled. @ http://127.0.0.1:5501/JS/index.html:40
+[      85ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:5501/favicon.ico:1
+[  859366ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[  863129ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[  863133ms] ReferenceError: con is not defined
+    at http://127.0.0.1:5501/JS/script.js:2:1
+[  865125ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[  868499ms] Unexpected end of input
+[  870224ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[  874385ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[  880002ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[  880002ms] [LOG] 2 @ http://127.0.0.1:5501/JS/script.js:2
+[  883224ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[  883224ms] [LOG] 6 @ http://127.0.0.1:5501/JS/script.js:2
+[  884614ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[  884614ms] [LOG] 6 @ http://127.0.0.1:5501/JS/script.js:2
+[  902358ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[  902358ms] [LOG] 23 @ http://127.0.0.1:5501/JS/script.js:2
+[  903653ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[  903653ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[  911672ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[  911672ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[  913276ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[  913276ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[  913277ms] ReferenceError: con is not defined
+    at http://127.0.0.1:5501/JS/script.js:3:1
+[  915038ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[  915038ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[  917523ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[  917523ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[  921817ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[  921817ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[  925295ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[  925295ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[  927118ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[  927118ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[  927118ms] [LOG] 1 @ http://127.0.0.1:5501/JS/script.js:3
+[  930456ms] Unexpected token ')'
+[  932121ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[  932121ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[  932121ms] [LOG] 1 @ http://127.0.0.1:5501/JS/script.js:3
+[  935734ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[  935734ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[  935734ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[  938337ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[  938337ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[  938337ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[  942769ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[  942769ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[  942769ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1060710ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1060710ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1060710ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1065243ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1065243ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1065243ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1066362ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1066362ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1066362ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1068913ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1068913ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1068913ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1071125ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1071126ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1071126ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1076602ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1076603ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1076603ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1081350ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1081351ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1081351ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1083603ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1083603ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1083603ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1089468ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1089468ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1089468ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1090744ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1090744ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1090744ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1096417ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1096417ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1096417ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1099371ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1099371ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1099371ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1103624ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1103624ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1103624ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1105456ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1105456ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1105456ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1112725ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1112725ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1112726ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1118093ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1118093ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1118093ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1128834ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1128834ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1128834ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1132496ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1132496ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1132496ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1176484ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1176484ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1176484ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1176479ms] ReferenceError: co is not defined
+    at http://127.0.0.1:5501/JS/script.js:4:1
+[ 1178935ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1178935ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1178935ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1181136ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1181136ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1181136ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1182655ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1182655ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1182655ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1187152ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1187152ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1187152ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1187152ms] [LOG] 오늘  @ http://127.0.0.1:5501/JS/script.js:4
+[ 1190701ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1190701ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1190701ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1190701ms] [LOG] 오늘 날짜는  @ http://127.0.0.1:5501/JS/script.js:4
+[ 1192741ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1192741ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1192741ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1192741ms] [LOG] 오늘 날짜는  @ http://127.0.0.1:5501/JS/script.js:4
+[ 1195086ms] Unexpected token ')'
+[ 1198362ms] Unexpected token ')'
+[ 1199858ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1199858ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1199858ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1199858ms] [LOG] 오늘 날짜는 30 @ http://127.0.0.1:5501/JS/script.js:4
+[ 1201045ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1201045ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1201045ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1201045ms] [LOG] 오늘 날짜는 30 @ http://127.0.0.1:5501/JS/script.js:4
+[ 1203216ms] Unexpected token ')'
+[ 1213878ms] Unexpected token ')'
+[ 1216504ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1216504ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1216504ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1216504ms] [LOG] 오늘 날짜는 30일입니다 @ http://127.0.0.1:5501/JS/script.js:4
+[ 1217587ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1217587ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1217587ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1217587ms] [LOG] 오늘 날짜는 30일입니다 @ http://127.0.0.1:5501/JS/script.js:4
+[ 1229979ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1229979ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1229979ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1229979ms] [LOG] 오늘 날짜는 30일입니다 @ http://127.0.0.1:5501/JS/script.js:4
+[ 1471940ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1471940ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1471940ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1471940ms] [LOG] 오늘 날짜는 30일입니다 @ http://127.0.0.1:5501/JS/script.js:4
+[ 1518546ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1518546ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1518546ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1518546ms] [LOG] 오늘 날짜는 30일입니다 @ http://127.0.0.1:5501/JS/script.js:4
+[ 1521284ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1521284ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1521284ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1521284ms] [LOG] 오늘 날짜는 30일입니다 @ http://127.0.0.1:5501/JS/script.js:4
+[ 1523818ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1523818ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1523818ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1523818ms] [LOG] 오늘 날짜는 30일입니다 @ http://127.0.0.1:5501/JS/script.js:4
+[ 1525635ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1525635ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1525635ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1525635ms] [LOG] 오늘 날짜는 30일입니다 @ http://127.0.0.1:5501/JS/script.js:4
+[ 1529813ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1529813ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1529813ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1529813ms] [LOG] 오늘 날짜는 30일입니다 @ http://127.0.0.1:5501/JS/script.js:4
+[ 1536132ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1536132ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1536132ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1536132ms] [LOG] 오늘 날짜는 30일입니다 @ http://127.0.0.1:5501/JS/script.js:4
+[ 1540535ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:5501/JS/4.1.0:1
+[ 1540536ms] [ERROR] Refused to execute script from 'http://127.0.0.1:5501/JS/4.1.0' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled. @ http://127.0.0.1:5501/JS/index.html:1
+[ 1540536ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1540536ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1540536ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1540536ms] [LOG] 오늘 날짜는 30일입니다 @ http://127.0.0.1:5501/JS/script.js:4
+[ 1543113ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1543113ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1543113ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1543113ms] [LOG] 오늘 날짜는 30일입니다 @ http://127.0.0.1:5501/JS/script.js:4
+[ 1578682ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1578682ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1578682ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1578682ms] [LOG] 오늘 날짜는 30일입니다 @ http://127.0.0.1:5501/JS/script.js:4
+[ 1652286ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1652286ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1652286ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1652286ms] [LOG] 오늘 날짜는 30일입니다 @ http://127.0.0.1:5501/JS/script.js:4
+[ 1656334ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1656334ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1656334ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1656334ms] [LOG] 오늘 날짜는 30일입니다 @ http://127.0.0.1:5501/JS/script.js:4
+[ 1658612ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1658612ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1658612ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1658613ms] [LOG] 오늘 날짜는 30일입니다 @ http://127.0.0.1:5501/JS/script.js:4
+[ 1660430ms] [LOG] js연결 @ http://127.0.0.1:5501/JS/script.js:1
+[ 1660430ms] [LOG] 5 @ http://127.0.0.1:5501/JS/script.js:2
+[ 1660430ms] [LOG] 11 @ http://127.0.0.1:5501/JS/script.js:3
+[ 1660430ms] [LOG] 오늘 날짜는 30일입니다 @ http://127.0.0.1:5501/JS/script.js:4
+[ 1810022ms] Unexpected token 'do'
+[ 1817821ms] Unexpected token '('
+[ 1819206ms] Unexpected token '('
+[ 1822495ms] Unexpected token '('
+[ 1830984ms] Unexpected token '('
+[ 1833847ms] Unexpected token '{'
+[ 1835840ms] Unexpected token '{'
+[ 1840861ms] Unexpected token ')'
+[ 1843839ms] Unexpected token '{'
+[ 1849667ms] Unexpected token '{'
+[ 2032668ms] Unexpected token '}'
+[ 2037418ms] Unexpected token ')'
+[ 2041198ms] Unexpected token ')'
+[ 2057097ms] Unexpected token '{'
+[ 2058948ms] Unexpected token ';'
+[ 2132792ms] ReferenceError: sc is not defined
+    at http://127.0.0.1:5501/JS/script.js:11:1
+[ 2136157ms] ReferenceError: scr is not defined
+    at http://127.0.0.1:5501/JS/script.js:11:1
+[ 2138149ms] ReferenceError: scri is not defined
+    at http://127.0.0.1:5501/JS/script.js:11:1
+[ 2148399ms] ReferenceError: s is not defined
+    at http://127.0.0.1:5501/JS/script.js:11:3
+[ 2164198ms] Unexpected token '{'
+[ 2168941ms] Unexpected token '{'
+[ 2174413ms] Unexpected token '{'
+[ 2211531ms] ReferenceError: fu is not defined
+    at http://127.0.0.1:5501/JS/script.js:11:19
+[ 2212665ms] Unexpected token ')'
+[ 2217568ms] Unexpected token ')'
+[ 2254368ms] [WARNING] jQuery.Deferred exception ReferenceError: co is not defined
+    at HTMLDocument.<anonymous> (http://127.0.0.1:5501/JS/script.js:12:3)
+    at l (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:24854)
+    at c (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:25173) undefined @ https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2
+[ 2254369ms] Uncaught ReferenceError: co is not defined
+    at <anonymous> (http://127.0.0.1:5501/JS/script.js:12:3)
+    at l (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:24854)
+    at c (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:25173)
+[ 2257852ms] Unexpected token '}'
+[ 2264429ms] Unexpected token '{'
+[ 2278137ms] [LOG] 제이쿼리 실행 확인 @ http://127.0.0.1:5501/JS/script.js:12
+[ 2279446ms] [LOG] 제이쿼리 실행 확인 @ http://127.0.0.1:5501/JS/script.js:12
+[ 2439511ms] Unexpected token '}'
+[ 2448739ms] Unexpected token '('
+[ 2453641ms] Unexpected token '('
+[ 2466443ms] Unexpected token ';'
+[ 2469160ms] Unexpected token '{'
+[ 2472561ms] Unexpected token '{'
+[ 2474512ms] Unexpected token '{'
+[ 2478445ms] Unexpected token '{'
+[ 2484594ms] Unexpected token '{'
+[ 2533215ms] [WARNING] jQuery.Deferred exception ReferenceError: bu is not defined
+    at HTMLDocument.<anonymous> (http://127.0.0.1:5501/JS/script.js:12:4)
+    at l (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:24854)
+    at c (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:25173) undefined @ https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2
+[ 2533212ms] Uncaught ReferenceError: bu is not defined
+    at <anonymous> (http://127.0.0.1:5501/JS/script.js:12:4)
+    at l (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:24854)
+    at c (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:25173)
+[ 2535770ms] [WARNING] jQuery.Deferred exception ReferenceError: butt is not defined
+    at HTMLDocument.<anonymous> (http://127.0.0.1:5501/JS/script.js:12:4)
+    at l (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:24854)
+    at c (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:25173) undefined @ https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2
+[ 2535766ms] Uncaught ReferenceError: butt is not defined
+    at <anonymous> (http://127.0.0.1:5501/JS/script.js:12:4)
+    at l (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:24854)
+    at c (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:25173)
+[ 2538402ms] [WARNING] jQuery.Deferred exception ReferenceError: button is not defined
+    at HTMLDocument.<anonymous> (http://127.0.0.1:5501/JS/script.js:12:4)
+    at l (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:24854)
+    at c (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:25173) undefined @ https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2
+[ 2538399ms] Uncaught ReferenceError: button is not defined
+    at <anonymous> (http://127.0.0.1:5501/JS/script.js:12:4)
+    at l (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:24854)
+    at c (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:25173)
+[ 2540542ms] Invalid or unexpected token
+[ 2549334ms] [WARNING] jQuery.Deferred exception ReferenceError: fu is not defined
+    at HTMLDocument.<anonymous> (http://127.0.0.1:5501/JS/script.js:12:20)
+    at l (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:24854)
+    at c (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:25173) undefined @ https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2
+[ 2549331ms] Uncaught ReferenceError: fu is not defined
+    at <anonymous> (http://127.0.0.1:5501/JS/script.js:12:20)
+    at l (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:24854)
+    at c (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:25173)
+[ 2550541ms] Unexpected token ')'
+[ 2552762ms] Unexpected token ')'
+[ 2558220ms] Unexpected token ')'
+[ 2559564ms] Unexpected token ')'
+[ 2584517ms] Unexpected token '}'
+[ 2861225ms] TypeError: $(...).addclass is not a function
+    at HTMLButtonElement.<anonymous> (http://127.0.0.1:5501/JS/script.js:13:15)
+    at HTMLButtonElement.dispatch (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:37893)
+    at v.handle (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:35841)
+[ 2882783ms] TypeError: $(...).addclass is not a function
+    at HTMLButtonElement.<anonymous> (http://127.0.0.1:5501/JS/script.js:13:15)
+    at HTMLButtonElement.dispatch (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:37893)
+    at v.handle (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:35841)
+[ 2893367ms] TypeError: $(...).addclass is not a function
+    at HTMLButtonElement.<anonymous> (http://127.0.0.1:5501/JS/script.js:13:15)
+    at HTMLButtonElement.dispatch (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:37893)
+    at v.handle (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:35841)
+[ 2894181ms] TypeError: $(...).addclass is not a function
+    at HTMLButtonElement.<anonymous> (http://127.0.0.1:5501/JS/script.js:13:15)
+    at HTMLButtonElement.dispatch (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:37893)
+    at v.handle (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:35841)
+[ 2894346ms] TypeError: $(...).addclass is not a function
+    at HTMLButtonElement.<anonymous> (http://127.0.0.1:5501/JS/script.js:13:15)
+    at HTMLButtonElement.dispatch (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:37893)
+    at v.handle (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:35841)
+[ 2894492ms] TypeError: $(...).addclass is not a function
+    at HTMLButtonElement.<anonymous> (http://127.0.0.1:5501/JS/script.js:13:15)
+    at HTMLButtonElement.dispatch (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:37893)
+    at v.handle (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:35841)
+[ 2894625ms] TypeError: $(...).addclass is not a function
+    at HTMLButtonElement.<anonymous> (http://127.0.0.1:5501/JS/script.js:13:15)
+    at HTMLButtonElement.dispatch (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:37893)
+    at v.handle (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:35841)
+[ 2894784ms] TypeError: $(...).addclass is not a function
+    at HTMLButtonElement.<anonymous> (http://127.0.0.1:5501/JS/script.js:13:15)
+    at HTMLButtonElement.dispatch (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:37893)
+    at v.handle (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:35841)
+[ 2894936ms] TypeError: $(...).addclass is not a function
+    at HTMLButtonElement.<anonymous> (http://127.0.0.1:5501/JS/script.js:13:15)
+    at HTMLButtonElement.dispatch (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:37893)
+    at v.handle (https://cdnjs.cloudflare.com/ajax/libs/jquery/4.1.0/jquery.min.js:2:35841)
+[ 3179134ms] ReferenceError: bbbbbbbbbbbbbbbbbbbbbbbbbbbbb is not defined
+    at http://127.0.0.1:5501/JS/script.js:15:4
+[ 3185468ms] ReferenceError: ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ is not defined
+    at http://127.0.0.1:5501/JS/script.js:15:4
+[ 3219683ms] ReferenceError: 나는 is not defined
+    at http://127.0.0.1:5501/JS/script.js:15:5
+[ 3227635ms] Unexpected identifier '훈련금도'
+[ 3240622ms] Unexpected identifier '훈련금도'
+[ 3245850ms] Unexpected identifier '훈련금도'
+[ 3252599ms] Unexpected identifier '훈련금도'
