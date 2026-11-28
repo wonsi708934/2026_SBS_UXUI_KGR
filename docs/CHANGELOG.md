@@ -27,3 +27,9 @@
 ## 2026-10-14 ~ 2026-10-16
 
 - 저장소와 `README.md`를 만들고 `1코딩/HTML기초/`의 HTML·CSS 및 Git 학습 문서를 추가. 근거: `51f7576`, `10e7ffa`, `067f4f7`, `8835a93`, `09297c6`.
+
+## 2026-11-28
+
+- `2프로필/` 작업 시작 요청과 폴더 확인 결과를 `docs/PROMPT_HISTORY.md`에 추가. 기록 문서만 수정. 근거: 폴더 목록 확인 및 `git diff --stat` 대조. Git 반영 전.
+- 원격 저장소 및 추적 브랜치 확인 결과를 `docs/PROMPT_HISTORY.md`에 추가. 근거: `git remote -v`, `git branch -vv`, `git rev-parse --show-toplevel`. 기록 문서만 수정, Git 반영 전.
+- `2프로필/` 이미지의 CDN 주소 기록 현황 확인 결과 추가: 원격 이미지 2장 모두 기록됨, 로컬 미추적 이미지 10장 미기록. 근거: 원격 갱신 후 `git ls-tree`, `git ls-files --others --exclude-standard`, `2프로필/이미지주소.md` 대조. 수정 파일: `docs/PROMPT_HISTORY.md`, `docs/CHANGELOG.md`. Git 반영 전.
