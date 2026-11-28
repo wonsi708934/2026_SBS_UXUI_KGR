@@ -33,3 +33,6 @@
 - `2프로필/` 작업 시작 요청과 폴더 확인 결과를 `docs/PROMPT_HISTORY.md`에 추가. 기록 문서만 수정. 근거: 폴더 목록 확인 및 `git diff --stat` 대조. Git 반영 전.
 - 원격 저장소 및 추적 브랜치 확인 결과를 `docs/PROMPT_HISTORY.md`에 추가. 근거: `git remote -v`, `git branch -vv`, `git rev-parse --show-toplevel`. 기록 문서만 수정, Git 반영 전.
 - `2프로필/` 이미지의 CDN 주소 기록 현황 확인 결과 추가: 원격 이미지 2장 모두 기록됨, 로컬 미추적 이미지 10장 미기록. 근거: 원격 갱신 후 `git ls-tree`, `git ls-files --others --exclude-standard`, `2프로필/이미지주소.md` 대조. 수정 파일: `docs/PROMPT_HISTORY.md`, `docs/CHANGELOG.md`. Git 반영 전.
+- 이미지 현황 재확인 및 정정: 현재 원격 `2프로필/image/`에 12장이 있으며 CDN 주소 기록은 2건으로, 미기록 이미지는 10장. 직전 확인과 원격 이미지 현황이 달라 현재 결과를 추가 기록함. 근거: 원격 재갱신 후 `git ls-tree origin/main`과 `git show origin/main:2프로필/이미지주소.md` 대조. 수정 파일: `docs/PROMPT_HISTORY.md`, `docs/CHANGELOG.md`. Git 반영 전.
+- 이미지 10장의 jsDelivr CDN 주소를 `2프로필/이미지주소.md`에 추가(기존 2건 포함 총 12건). 근거: 추가한 10개 주소 모두 HTTP HEAD 200 및 image/png 또는 image/jpeg 응답 확인. 수정 파일: `2프로필/이미지주소.md`, `docs/PROMPT_HISTORY.md`, `docs/CHANGELOG.md`. Git 반영 전.
+- CDN 주소 10건 표시 요청과 수행 결과를 `docs/PROMPT_HISTORY.md`에 기록. 근거: `2프로필/이미지주소.md` 대조. 기록 문서만 수정(`docs/PROMPT_HISTORY.md`, `docs/CHANGELOG.md`). Git 반영 전.

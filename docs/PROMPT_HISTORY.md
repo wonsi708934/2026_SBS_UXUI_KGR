@@ -1867,3 +1867,42 @@ KGR.jpg 이미지도 cdn주소로 전환해서 이미지 주소에 기록해
 ````text
 리포지터리에 올라와있는 이미지 중 cdn주소로 변환하지 못한 이미지는 몇장이야?
 ````
+
+### PH-122 · 23:06:14 KST
+
+- 입력 시각: 2026-11-28 23:06:14 KST (요청 처리 중 확인한 시각)
+- 수행 결과: 원격 정보를 다시 갱신하여 `origin/main`의 `2프로필/image/` 이미지 12장과 CDN 주소 기록 2건을 확인. CDN 주소가 기록되지 않은 이미지는 10장(CSS3.png, Figma.png, HTML5.png, Illustrator.png, InDesign.png, JavaScript.png, Photoshop.png, acp_일러스트.png, acp_포토+일러.jpeg, acp_포토샵.png). PH-121 확인 시점과 달리 이번 확인에서는 10장도 원격에 존재함을 확인하여 현재 상태를 정정함. CDN 응답 자체는 검사하지 않음.
+- 수정 파일: `docs/PROMPT_HISTORY.md`, `docs/CHANGELOG.md`
+- 작업 상태: 완료
+
+원문:
+
+````text
+다시 확인해봐
+````
+
+### PH-123 · 23:07:15 KST
+
+- 입력 시각: 2026-11-28 23:07:15 KST (요청 처리 중 확인한 시각)
+- 수행 결과: 앞서 확인한 이미지 10장의 jsDelivr CDN 주소를 생성하여 `2프로필/이미지주소.md`에 추가. 한글과 + 문자를 URL 인코딩함. HTTP HEAD 요청으로 10장 모두 200 응답 및 PNG 9장/JPEG 1장의 Content-Type 확인.
+- 수정 파일: `2프로필/이미지주소.md`, `docs/PROMPT_HISTORY.md`, `docs/CHANGELOG.md`
+- 작업 상태: 완료
+
+원문:
+
+````text
+위 이미지 10장을 cdn주소로 변환할거야. 확인해봐
+````
+
+### PH-124 · 23:09:04 KST
+
+- 입력 시각: 2026-11-28 23:09:04 KST (요청 처리 중 확인한 시각)
+- 수행 결과: `2프로필/이미지주소.md`에서 직전에 추가한 이미지 10장의 CDN 주소를 읽어 사용자에게 표시.
+- 수정 파일: `docs/PROMPT_HISTORY.md`, `docs/CHANGELOG.md`
+- 작업 상태: 완료
+
+원문:
+
+````text
+주소 보여줘
+````
