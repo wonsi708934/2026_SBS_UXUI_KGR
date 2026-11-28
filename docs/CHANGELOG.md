@@ -36,3 +36,4 @@
 - 이미지 현황 재확인 및 정정: 현재 원격 `2프로필/image/`에 12장이 있으며 CDN 주소 기록은 2건으로, 미기록 이미지는 10장. 직전 확인과 원격 이미지 현황이 달라 현재 결과를 추가 기록함. 근거: 원격 재갱신 후 `git ls-tree origin/main`과 `git show origin/main:2프로필/이미지주소.md` 대조. 수정 파일: `docs/PROMPT_HISTORY.md`, `docs/CHANGELOG.md`. Git 반영 전.
 - 이미지 10장의 jsDelivr CDN 주소를 `2프로필/이미지주소.md`에 추가(기존 2건 포함 총 12건). 근거: 추가한 10개 주소 모두 HTTP HEAD 200 및 image/png 또는 image/jpeg 응답 확인. 수정 파일: `2프로필/이미지주소.md`, `docs/PROMPT_HISTORY.md`, `docs/CHANGELOG.md`. Git 반영 전.
 - CDN 주소 10건 표시 요청과 수행 결과를 `docs/PROMPT_HISTORY.md`에 기록. 근거: `2프로필/이미지주소.md` 대조. 기록 문서만 수정(`docs/PROMPT_HISTORY.md`, `docs/CHANGELOG.md`). Git 반영 전.
+- CDN 주소 기록 여부 확인: 로컬 `2프로필/이미지주소.md`에 총 12건 존재. 이전 대화 기록 누락 3건을 대화 내용 근거로 보완(정확한 수신 시각 확인 불가 명시). 수정 파일: `docs/PROMPT_HISTORY.md`, `docs/CHANGELOG.md`. 이미지 주소 파일은 변경 없음. Git 반영 전.
